@@ -1,0 +1,825 @@
+region,rdo,do_no,effectivity,revision,province,city,barangay,street,vicinity,classification,class_name,value_sqm
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,BONGAO POBLACION,AWWAL,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,600.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,BONGAO POBLACION,AWWAL,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,450.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,BONGAO POBLACION,AWWAL PROPOSED,CORNER PROPOSED ROAD,CR,Commercial - Regular,750.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,BONGAO POBLACION,AWWAL PROPOSED,CORNER PROPOSED ROAD,CR,Commercial - Regular,550.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,1063.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,GP,General Purpose,148.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,RR,Residential - Regular,245.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,600.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,GP,General Purpose,50.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,BAGAY,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,1688.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,BAGAY,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,1000.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,BAGAY,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,750.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,BOULEVARD,1ST ST.- BADJAO VILLAGE,RR,Residential - Regular,245.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,BOULEVARD,1ST ST.- BADJAO VILLAGE,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,CHINESE PIER ROAD,RIDJIKI BLVD-PROPOSED ROAD,CR,Commercial - Regular,1360.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,CHINESE PIER ROAD,RIDJIKI BLVD-PROPOSED ROAD,CR,Commercial - Regular,650.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,CHINESE PIER ROAD,RIDJIKI BLVD-PROPOSED ROAD,CR,Commercial - Regular,550.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,DATU HALUN,WHARF-NALIL,CR,Commercial - Regular,1360.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,DATU HALUN,WHARF-NALIL,CR,Commercial - Regular,650.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,DATU HALUN,WHARF-NALIL,CR,Commercial - Regular,550.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,DATU HALUN ROAD,NALIL- PASIAGAN,RR,Residential - Regular,720.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,DATU HALUN ROAD,NALIL- PASIAGAN,RR,Residential - Regular,300.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,DATU HALUN ROAD,NALIL- PASIAGAN,RR,Residential - Regular,200.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,FATHER LAQUER ST.,HOLY FAMILY HOSPITAL SITE,RR,Residential - Regular,675.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,FATHER LAQUER ST.,HOLY FAMILY HOSPITAL SITE,RR,Residential - Regular,200.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,FATHER LAQUER ST.,HOLY FAMILY HOSPITAL SITE,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,KAHAPAN,DATU HALUN SCHOOL OF FISHERIES,RR,Residential - Regular,675.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,KAHAPAN,DATU HALUN SCHOOL OF FISHERIES,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,KAHAPAN,DATU HALUN SCHOOL OF FISHERIES,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,LAMION,CORNER RIDJIKI BLVD.,CR,Commercial - Regular,1310.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,LAMION,CORNER RIDJIKI BLVD.,RR,Residential - Regular,345.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,LAMION,NFA WAREHOUSE,X,Special / Other,1190.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,LAMION,SIMANDAGIT,A50,Agricultural - A50,148.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION,CORNER RIDJIKI BLVD.,CR,Commercial - Regular,650.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION,CORNER RIDJIKI BLVD.,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION,SIMANDAGIT,A50,Agricultural - A50,50.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION,NFA WAREHOUSE,X,Special / Other,550.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION,CORNER RIDJIKI BLVD.,CR,Commercial - Regular,550.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION,CORNER RIDJIKI BLVD.,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION,SIMANDAGIT,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION,NFA WAREHOUSE,X,Special / Other,300.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,LAMION SIMANDAGIT,PASIAGAN-WHARF OF LAMION,RR,Residential - Regular,265.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION SIMANDAGIT,PASIAGAN-WHARF OF LAMION,RR,Residential - Regular,150.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,LAMION SIMANDAGIT,PASIAGAN-WHARF OF LAMION,RR,Residential - Regular,90.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,NALIL ROAD,ALONG PAHUT ROAD,RR,Residential - Regular,425.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,NALIL ROAD,ALONG PAHUT ROAD,A50,Agricultural - A50,123.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,NALIL ROAD,ALONG PAHUT ROAD,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,NALIL ROAD,ALONG PAHUT ROAD,A50,Agricultural - A50,50.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,NALIL ROAD,ALONG PAHUT ROAD,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,NALIL ROAD,ALONG PAHUT ROAD,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,PAHUT ROAD,SANGA- SANGA,RR,Residential - Regular,263.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,PAHUT ROAD,SANGA- SANGA,RR,Residential - Regular,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,PAHUT ROAD,SANGA- SANGA,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,PASIAGAN ROAD,SANGA- SANGA,RR,Residential - Regular,245.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,PASIAGAN ROAD,SANGA- SANGA,A50,Agricultural - A50,128.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,PASIAGAN ROAD,SANGA- SANGA,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,PASIAGAN ROAD,SANGA- SANGA,A50,Agricultural - A50,55.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,PASIAGAN ROAD,SANGA- SANGA,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,PASIAGAN ROAD,SANGA- SANGA,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,PROPOSED KASULUTAN,SANGA- SANGA,RR,Residential - Regular,245.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,PROPOSED KASULUTAN,SANGA- SANGA,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,RIDJIKI BLVD.,LAMION- SALAMAT,CR,Commercial - Regular,1593.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,RIDJIKI BLVD.,LAMION- SALAMAT,CR,Commercial - Regular,900.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,SANGA- SANGA,LAMION- SALAMAT,A50,Agricultural - A50,123.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,SANGA- SANGA,OF FISHERIES,RR,Residential - Regular,828.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,SANGA- SANGA,LAMION- SALAMAT,A50,Agricultural - A50,50.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,SANGA- SANGA,OF FISHERIES,RR,Residential - Regular,350.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,EXTENSION,SUKURAN,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,1405.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,EXTENSION,SUKURAN,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,700.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,ROADSIDE,A,Agricultural,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,ROADSIDE,A50,Agricultural - A50,152.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,ROADSIDE,GP,General Purpose,158.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,,RR,Residential - Regular,375.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,,A50,Agricultural - A50,35.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,,GP,General Purpose,83.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,IPIL,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,195.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,IPIL,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,IPIL,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,IPIL,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,IPIL,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,IPIL,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,IPIL,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,IPIL,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,IPIL,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KAMAGONG,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KAMAGONG,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KAMAGONG,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KAMAGONG,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KAMAGONG,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KAMAGONG,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KAMAGONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,371.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KAMAGONG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KAMAGONG,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KAMAGONG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KAMAGONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KAMAGONG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KAMAGONG,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KAMAGONG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KAMAGONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KARUNDONG,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KARUNDONG,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KARUNDONG,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KARUNDONG,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KARUNDONG,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KARUNDONG,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,KARUNDONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,371.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KARUNDONG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KARUNDONG,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KARUNDONG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KARUNDONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KARUNDONG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KARUNDONG,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KARUNDONG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,KARUNDONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAGASAN,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAGASAN,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAGASAN,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAGASAN,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAGASAN,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAGASAN,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAGASAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAGASAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAGASAN,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAGASAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAGASAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAGASAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAGASAN,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAGASAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAGASAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAKIT-LAKIT,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAKIT-LAKIT,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAKIT-LAKIT,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAKIT-LAKIT,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAKIT-LAKIT,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAKIT-LAKIT,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAKIT-LAKIT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAKIT-LAKIT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAKIT-LAKIT,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAKIT-LAKIT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAKIT-LAKIT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAKIT-LAKIT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAKIT-LAKIT,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAKIT-LAKIT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAKIT-LAKIT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,ROADSIDE,RR,Residential - Regular,641.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,ROADSIDE,X,Special / Other,845.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,ROADSIDE,GP,General Purpose,173.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,776.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,370.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAMION,ALL LOTS,DAERAH SHARIFA RAFIA HALUN VILLE,RR,Residential - Regular,2417.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAMION,ALL LOTS,,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAMION,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAMION,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAMION,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,90.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAMION,ALL LOTS,,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAMION,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAMION,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAMION,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,90.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,,RR,Residential - Regular,375.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,,A50,Agricultural - A50,35.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,,GP,General Purpose,83.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,LAPID-LAPID,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,195.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAPID-LAPID,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAPID-LAPID,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAPID-LAPID,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAPID-LAPID,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAPID-LAPID,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAPID-LAPID,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAPID-LAPID,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LAPID-LAPID,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LATO LATO,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LATO LATO,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LATO LATO,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LATO LATO,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LATO LATO,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LATO LATO,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LATO LATO,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LATO LATO,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LATO LATO,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LATO LATO,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LATO LATO,ALL LOTS,,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LATO LATO,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LATO LATO,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LATO LATO,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LATO LATO,ALL LOTS,,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK PANDAN,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK PANDAN,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK PANDAN,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK PANDAN,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK PANDAN,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK PANDAN,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK PANDAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK PANDAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK PANDAN,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK PANDAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK PANDAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK PANDAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK PANDAN,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK PANDAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK PANDAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK TULAY,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK TULAY,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK TULAY,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK TULAY,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK TULAY,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK TULAY,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,LUUK TULAY,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK TULAY,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK TULAY,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK TULAY,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK TULAY,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK TULAY,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK TULAY,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK TULAY,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,LUUK TULAY,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MALASA,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MALASA,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MALASA,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MALASA,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MALASA,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MALASA,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MALASA,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MALASA,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MALASA,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MALASA,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MALASA,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MALASA,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MALASA,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MALASA,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MALASA,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MANDULAN,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MANDULAN,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MANDULAN,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MANDULAN,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MANDULAN,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MANDULAN,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MANDULAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MANDULAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MANDULAN,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MANDULAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MANDULAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MANDULAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MANDULAN,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MANDULAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MANDULAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,,RR,Residential - Regular,375.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,,A50,Agricultural - A50,35.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,,GP,General Purpose,83.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,MASANTONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,195.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MASANTONG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MASANTONG,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MASANTONG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MASANTONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MASANTONG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MASANTONG,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MASANTONG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MASANTONG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MONTAY MONTAY,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MONTAY MONTAY,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MONTAY MONTAY,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MONTAY MONTAY,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MONTAY MONTAY,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MONTAY MONTAY,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MONTAY MONTAY,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,MONTAY MONTAY,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MONTAY-MONTAY,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MONTAY-MONTAY,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MONTAY-MONTAY,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MONTAY-MONTAY,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MONTAY-MONTAY,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MONTAY-MONTAY,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,MONTAY-MONTAY,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,ROADSIDE,RR,Residential - Regular,506.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,ROADSIDE,A,Agricultural,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,ROADSIDE,A50,Agricultural - A50,157.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,ROADSIDE,GP,General Purpose,188.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,ROADSIDE,I,Industrial,845.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,ROADSIDE,X,Special / Other,817.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,776.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,370.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,JJJ LAND DEV'T. CORP. SUBDIVISION,RR,Residential - Regular,1563.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,SEA ORCHIDS HOMES SUBDIVISION,RR,Residential - Regular,1520.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,MID VALLEY SUBDIVISION,RR,Residential - Regular,1150.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,NALIL,ALL LOTS,TRIPLE R SUBDIVISION,RR,Residential - Regular,1150.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,NALIL,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,NALIL,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,NALIL,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,NALIL,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,NALIL,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,NALIL,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,NALIL,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,NALIL,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PABABAG,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PABABAG,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PABABAG,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PABABAG,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PABABAG,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PABABAG,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PABABAG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PABABAG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PABABAG,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PABABAG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PABABAG,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PABABAG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PABABAG,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PABABAG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PABABAG,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASA,ALL LOTS,ROADSIDE,RR,Residential - Regular,506.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASA,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASA,ALL LOTS,ROADSIDE,A,Agricultural,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASA,ALL LOTS,ROADSIDE,A50,Agricultural - A50,157.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASA,ALL LOTS,ROADSIDE,GP,General Purpose,188.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASA,ALL LOTS,ROADSIDE,X,Special / Other,817.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASA,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,776.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASA,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,370.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASA,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASA,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASA,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASA,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASA,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASA,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASA,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASA,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASINAN,ALL LOTS,ROADSIDE,RR,Residential - Regular,476.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASINAN,ALL LOTS,ROADSIDE,CR,Commercial - Regular,814.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASINAN,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASINAN,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASINAN,ALL LOTS,ROADSIDE,GP,General Purpose,188.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASINAN,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,756.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASINAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAG-ASINAN,ALL LOTS,ALBIA SUBDIVISION,RR,Residential - Regular,4417.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASINAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASINAN,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASINAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASINAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASINAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASINAN,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASINAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAG-ASINAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,,RR,Residential - Regular,375.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,,A50,Agricultural - A50,35.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,,GP,General Purpose,83.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,PAGATPAT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,195.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAGATPAT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAGATPAT,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAGATPAT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAGATPAT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAGATPAT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAGATPAT,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAGATPAT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAGATPAT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAHUT,ALL LOTS,ROADSIDE,RR,Residential - Regular,506.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAHUT,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAHUT,ALL LOTS,ROADSIDE,I,Industrial,845.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAHUT,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAHUT,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAHUT,ALL LOTS,ROADSIDE,GP,General Purpose,188.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAHUT,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,776.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAHUT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,321.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAHUT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAHUT,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAHUT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAHUT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAHUT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAHUT,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAHUT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAHUT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAKIAS,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAKIAS,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAKIAS,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAKIAS,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAKIAS,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAKIAS,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PAKIAS,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAKIAS,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAKIAS,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAKIAS,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAKIAS,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAKIAS,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAKIAS,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAKIAS,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PAKIAS,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PANYOGAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PANYOGAN,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PANYOGAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PANYOGAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PANYOGAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PANYOGAN,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PANYOGAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PANYOGAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PANYONGAN,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PANYONGAN,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PANYONGAN,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PANYONGAN,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PANYONGAN,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PANYONGAN,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PANYONGAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,ROADSIDE,RR,Residential - Regular,506.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,ROADSIDE LOT (Suwangkagang),RR,Residential - Regular,525.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,ROADSIDE LOT (Suwangkagang),CR,Commercial - Regular,2158.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,ROADSIDE LOT (Suwangkagang),A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,ROADSIDE LOT (Suwangkagang),A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,ROADSIDE LOT (Suwangkagang),GP,General Purpose,188.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,776.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,321.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,PASIAGAN,ALL LOTS,INTERIOR LOTS (Suwangkagang),RR,Residential - Regular,350.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PASIAGAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PASIAGAN,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PASIAGAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PASIAGAN,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PASIAGAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PASIAGAN,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PASIAGAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PASIAGAN,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,1342.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,GP,General Purpose,206.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,RR,Residential - Regular,427.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,AWWAL,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,1660.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,POBLACION,AWWAL,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,1313.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,POBLACION,AWWAL PROPOSED,CORNER PROPOSED ROAD,CR,Commercial - Regular,1450.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,AWWAL PROPOSED EXTENSION,CORNER PROPOSED ROAD,CR,Commercial - Regular,1833.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,BAGAY,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,2136.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,BOULEVARD,1ST ST.- BADJAO VILLAGE,RR,Residential - Regular,359.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,BOULEVARD,1ST ST.- BADJAO VILLAGE,CR,Commercial - Regular,590.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,CHINESE PIER ROAD,RIDJIKI BLVD-PROPOSED ROAD,CR,Commercial - Regular,1720.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,DATU HALUN,WHARF-NALIL,CR,Commercial - Regular,9834.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,DATU HALUN ROAD,NALIL- PASIAGAN,RR,Residential - Regular,838.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,DATU HALUN ROAD,NALIL- PASIAGAN,CR,Commercial - Regular,970.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,DATU HALUN ROAD,NALIL- PASIAGAN,X,Special / Other,904.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,FATHER LAQUER ST.,HOLY FAMILY HOSPITAL SITE,RR,Residential - Regular,789.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,FATHER LAQUER ST.,HOLY FAMILY HOSPITAL SITE,CR,Commercial - Regular,906.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,FATHER LAQUER ST.,HOLY FAMILY HOSPITAL SITE,X,Special / Other,868.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,KAHAPAN,DATU HALUN SCHOOL OF FISHERIES,RR,Residential - Regular,789.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,KAHAPAN,DATU HALUN SCHOOL OF FISHERIES,CR,Commercial - Regular,906.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,KAHAPAN,DATU HALUN SCHOOL OF FISHERIES,X,Special / Other,848.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,LAMION,CORNER RIDJIKI BLVD.,CR,Commercial - Regular,1658.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,LAMION,CORNER RIDJIKI BLVD.,RR,Residential - Regular,811.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,LAMION,NFA WAREHOUSE,X,Special / Other,1508.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,LAMION,SIMANDAGIT,A50,Agricultural - A50,175.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,LAMION SIMANDAGIT,PASIAGAN-WHARF OF LAMION,RR,Residential - Regular,591.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,LAMION SIMANDAGIT,PASIAGAN-WHARF OF LAMION,CR,Commercial - Regular,814.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,NALIL ROAD,ALONG PAHUT ROAD,RR,Residential - Regular,501.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,NALIL ROAD,ALONG PAHUT ROAD,A50,Agricultural - A50,165.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,NALIL ROAD,ALONG PAHUT ROAD,CR,Commercial - Regular,834.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,PAHUT ROAD,SANGA-SANGA,RR,Residential - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,PAHUT ROAD,SANGA-SANGA,CR,Commercial - Regular,814.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,PAHUT ROAD,SANGA-SANGA,X,Special / Other,795.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,PASIAGAN ROAD,SANGA-SANGA,RR,Residential - Regular,506.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,PASIAGAN ROAD,SANGA-SANGA,A50,Agricultural - A50,165.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,PASIAGAN ROAD,SANGA-SANGA,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,PROPOSED KASULUTAN,SANGA-SANGA,RR,Residential - Regular,359.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,PROPOSED KASULUTAN,SANGA-SANGA,CR,Commercial - Regular,590.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,RIDJIKI BLVD.,LAMION- SALAMAT,CR,Commercial - Regular,2015.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,SALAMAT,CORNER DATU HALUN SCHOOL OF FISHERIES,RR,Residential - Regular,963.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,SALAMAT,CORNER DATU HALUN SCHOOL OF FISHERIES,CR,Commercial - Regular,1111.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,SANGA- SANGA,LAMION- SALAMAT,A50,Agricultural - A50,165.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,SANGA- SANGA,LAMION- SALAMAT,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,POBLACION,SUKURAN,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,1779.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PROPOSED KASULUTAN,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,550.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PROPOSED KASULUTAN,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PROPOSED KASULUTAN,ALL OTHER ST.,DATU HALUN RIDJIKI BLVD.,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PROPOSED KASULUTAN,BOULEVARD,1ST ST.- BADJAO VILLAGE,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PROPOSED KASULUTAN,RIDJIKI BLVD.,LAMION- SALAMAT,CR,Commercial - Regular,800.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PROPOSED KASULUTAN,SANGA- SANGA,LAMION- SALAMAT,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PROPOSED KASULUTAN,SANGA- SANGA,OF FISHERIES,RR,Residential - Regular,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,PROPOSED KASULUTAN,SUKURAN,DATU HALUN RIDJIKI BLVD.,CR,Commercial - Regular,550.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SANGA-SANGA,ALL LOTS,ROADSIDE,RR,Residential - Regular,506.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SANGA-SANGA,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SANGA-SANGA,ALL LOTS,ROADSIDE,X,Special / Other,760.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SANGA-SANGA,ALL LOTS,ROADSIDE,A,Agricultural,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SANGA-SANGA,ALL LOTS,ROADSIDE,A50,Agricultural - A50,188.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SANGA-SANGA,ALL LOTS,ROADSIDE,GP,General Purpose,407.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SANGA-SANGA,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,726.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SANGA-SANGA,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,321.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SANGA-SANGA,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SANGA-SANGA,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SANGA-SANGA,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SANGA-SANGA,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SANGA-SANGA,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SANGA-SANGA,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SANGA-SANGA,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SANGA-SANGA,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,,RR,Residential - Regular,375.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,,A50,Agricultural - A50,35.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,,GP,General Purpose,83.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,SILOBBOG,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,195.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SILOBBOG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SILOBBOG,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SILOBBOG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SILOBBOG,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SILOBBOG,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SILOBBOG,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SILOBBOG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SILOBBOG,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SIMANDAGIT,ALL LOTS,ROADSIDE,RR,Residential - Regular,528.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SIMANDAGIT,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SIMANDAGIT,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SIMANDAGIT,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SIMANDAGIT,ALL LOTS,ROADSIDE,GP,General Purpose,245.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SIMANDAGIT,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,776.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SIMANDAGIT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,370.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SIMANDAGIT,ALL LOTS,ACS SUBDIVISION,RR,Residential - Regular,2730.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SIMANDAGIT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SIMANDAGIT,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SIMANDAGIT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SIMANDAGIT,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SIMANDAGIT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SIMANDAGIT,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SIMANDAGIT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SIMANDAGIT,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SUMANGAT,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SUMANGAT,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SUMANGAT,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SUMANGAT,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SUMANGAT,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SUMANGAT,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,SUMANGAT,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SUMANGAT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SUMANGAT,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SUMANGAT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SUMANGAT,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SUMANGAT,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SUMANGAT,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SUMANGAT,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,SUMANGAT,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TARAWAKAN,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TARAWAKAN,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TARAWAKAN,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TARAWAKAN,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TARAWAKAN,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TARAWAKAN,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TARAWAKAN,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TARAWAKAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TARAWAKAN,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TARAWAKAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TARAWAKAN,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TARAWAKAN,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TARAWAKAN,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TARAWAKAN,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TARAWAKAN,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TONGSINAH,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TONGSINAH,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TONGSINAH,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TONGSINAH,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TONGSINAH,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TONGSINAH,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TONGSINAH,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TONGSINAH,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TONGSINAH,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TONGSINAH,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TONGSINAH,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TONGSINAH,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TONGSINAH,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TONGSINAH,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TONGSINAH,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG - BASAG,ALL LOTS,,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG - BASAG,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG - BASAG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG - BASAG,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG - BASAG,ALL LOTS,,RR,Residential - Regular,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG - BASAG,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG - BASAG,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG - BASAG,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG- BOH,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG- BOH,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG- BOH,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG- BOH,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG- BOH,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG- BOH,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG- BOH,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG- BOH,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BASAG,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BASAG,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BASAG,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BASAG,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BASAG,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BASAG,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,608.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BASAG,ALL LOTS,ALL OTHER INTERIOR LOTS,RR,Residential - Regular,400.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,ROADSIDE,RR,Residential - Regular,528.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,ROADSIDE,X,Special / Other,845.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,ROADSIDE,A,Agricultural,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,ROADSIDE,A50,Agricultural - A50,178.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,ROADSIDE,GP,General Purpose,295.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,370.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,776.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,OLD HOUSING,RR,Residential - Regular,1050.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,NEW HOUSING,RR,Residential - Regular,1025.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,DAYANG SAHAYA HOME SUBDIVISION,RR,Residential - Regular,1025.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,,RR,Residential - Regular,375.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,,A50,Agricultural - A50,35.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,,GP,General Purpose,83.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,2ND,TAWI-TAWI,BONGAO,TUBIG-BOH,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,195.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-MAMPALAM,ALL LOTS,ROADSIDE,RR,Residential - Regular,469.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-MAMPALAM,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-MAMPALAM,ALL LOTS,ROADSIDE,X,Special / Other,845.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-MAMPALAM,ALL LOTS,ROADSIDE,A,Agricultural,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-MAMPALAM,ALL LOTS,ROADSIDE,A50,Agricultural - A50,157.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-MAMPALAM,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-MAMPALAM,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,771.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-MAMPALAM,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,491.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-MAMPALAM,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-MAMPALAM,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-MAMPALAM,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-MAMPALAM,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-MAMPALAM,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-MAMPALAM,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-MAMPALAM,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-MAMPALAM,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-TANAH,ALL LOTS,ROADSIDE,RR,Residential - Regular,469.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-TANAH,ALL LOTS,ROADSIDE,CR,Commercial - Regular,864.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-TANAH,ALL LOTS,ROADSIDE,A,Agricultural,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-TANAH,ALL LOTS,ROADSIDE,A50,Agricultural - A50,157.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-TANAH,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-TANAH,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,776.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,TUBIG-TANAH,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,321.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-TANAH,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-TANAH,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-TANAH,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-TANAH,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-TANAH,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-TANAH,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-TANAH,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,TUBIG-TANAH,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,UNGUS-UNGUS,ALL LOTS,ROADSIDE,RR,Residential - Regular,439.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,UNGUS-UNGUS,ALL LOTS,ROADSIDE,CR,Commercial - Regular,626.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,UNGUS-UNGUS,ALL LOTS,ROADSIDE,A,Agricultural,107.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,UNGUS-UNGUS,ALL LOTS,ROADSIDE,A50,Agricultural - A50,120.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,UNGUS-UNGUS,ALL LOTS,ROADSIDE,GP,General Purpose,203.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,UNGUS-UNGUS,ALL LOTS,INTERIOR LOTS,CR,Commercial - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",3RD,TAWI-TAWI,BONGAO,UNGUS-UNGUS,ALL LOTS,INTERIOR LOTS,RR,Residential - Regular,246.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,UNGUS-UNGUS,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,UNGUS-UNGUS,ALL LOTS,,A50,Agricultural - A50,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,UNGUS-UNGUS,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,UNGUS-UNGUS,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,UNGUS-UNGUS,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,UNGUS-UNGUS,ALL LOTS,,A,Agricultural,1.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,UNGUS-UNGUS,ALL LOTS,,GP,General Purpose,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,BONGAO,UNGUS-UNGUS,ALL LOTS,INTERIOR LOT,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,588.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,760.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,X,Special / Other,685.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,381.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,400.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A11,Agricultural - A11,95.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,111.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,400.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A31,Agricultural - A31,481.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A32,Agricultural - A32,419.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,450.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,275.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,300.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A11,Agricultural - A11,73.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,88.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,300.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A31,Agricultural - A31,375.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A32,Agricultural - A32,325.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,LANGUYAN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,30.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,30.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A11,Agricultural - A11,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,25.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,LANGUYAN,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,463.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,X,Special / Other,415.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,400.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,113.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,356.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,99.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,350.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,300.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,90.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,275.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,MAPUN,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,78.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,MAPUN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,55.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,MAPUN,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,70.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,MAPUN,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,30.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,MAPUN,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,30.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,MAPUN,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,25.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,443.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,380.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,I,Industrial,415.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,X,Special / Other,383.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,136.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A3,Agricultural - A3,294.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,294.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A11,Agricultural - A11,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,100.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A16,Agricultural - A16,83.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A23,Agricultural - A23,294.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,294.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A48,Agricultural - A48,275.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,350.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,300.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,108.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A3,Agricultural - A3,225.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,225.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A11,Agricultural - A11,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A16,Agricultural - A16,64.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A23,Agricultural - A23,225.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,225.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A48,Agricultural - A48,200.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,90.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A1,Agricultural - A1,35.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,30.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A11,Agricultural - A11,25.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A14,Agricultural - A14,25.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A16,Agricultural - A16,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A23,Agricultural - A23,40.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,35.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,PANGLIMA SUGALA,ALL BARANGAYS,ALL LOTS,,A48,Agricultural - A48,30.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,338.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,420.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,X,Special / Other,380.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,231.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,40.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,250.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,175.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,33.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,40.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SAPA-SAPA,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,10.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SIBUTU,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,325.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SIBUTU,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,275.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SIBUTU,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,160.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SIBUTU,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,48.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,"SIBUTU (New Municipality, formerly part of Sitangkai)",ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,409.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,"SIBUTU (New Municipality, formerly part of Sitangkai)",ALL BARANGAYS,ALL LOTS,,X,Special / Other,383.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,"SIBUTU (New Municipality, formerly part of Sitangkai)",ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,346.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,"SIBUTU (New Municipality, formerly part of Sitangkai)",ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,220.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,"SIBUTU (New Municipality, formerly part of Sitangkai)",ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,61.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,513.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,X,Special / Other,415.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,356.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,339.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,59.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,350.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,275.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,225.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SIMUNUL,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,45.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SIMUNUL,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SIMUNUL,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SIMUNUL,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SIMUNUL,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,15.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,463.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,X,Special / Other,415.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,356.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,294.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,63.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,350.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,275.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,225.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SITANGKAI,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,51.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SITANGKAI,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,70.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SITANGKAI,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,80.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SITANGKAI,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,25.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SITANGKAI,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,15.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SOUTH UBIAN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,381.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SOUTH UBIAN,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,465.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SOUTH UBIAN,ALL BARANGAYS,ALL LOTS,,X,Special / Other,418.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,SOUTH UBIAN,ALL BARANGAYS,ALL LOTS,,A50,Agricultural - A50,319.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SOUTH UBIAN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,275.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,SOUTH UBIAN,ALL BARANGAYS,ALL LOTS,,A50,Agricultural - A50,225.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SOUTH UBIAN,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,40.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,SOUTH UBIAN,ALL BARANGAYS,ALL LOTS,,A50,Agricultural - A50,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TANDUBAS,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,334.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TANDUBAS,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,415.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TANDUBAS,ALL BARANGAYS,ALL LOTS,,X,Special / Other,371.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TANDUBAS,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,264.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TANDUBAS,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,85.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,TANDUBAS,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,245.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,TANDUBAS,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,185.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,TANDUBAS,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,66.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,TANDUBAS,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,40.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,TANDUBAS,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,25.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,TANDUBAS,ALL BARANGAYS,ALL LOTS,,A25,Agricultural - A25,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,TURTLE ISLAND,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,60.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,,,TURTLE ISLAND,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,20.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TURTLE ISLANDS,ALL BARANGAYS,ALL LOTS,,CR,Commercial - Regular,445.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TURTLE ISLANDS,ALL BARANGAYS,ALL LOTS,,X,Special / Other,404.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TURTLE ISLANDS,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,334.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",045-2023,"Sept 2, 2023",2ND,TAWI-TAWI,TURTLE ISLANDS,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,211.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,TURTLE ISLANDS,ALL BARANGAYS,ALL LOTS,,RR,Residential - Regular,265.0
+raw,"RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",,,1ST,TAWI-TAWI,TURTLE ISLANDS,ALL BARANGAYS,ALL LOTS,,A4,Agricultural - A4,148.0

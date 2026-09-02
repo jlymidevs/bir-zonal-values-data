@@ -1,0 +1,3203 @@
+[
+ {
+  "f": "data/rdo-101-iligan-city-lanao-del-norte-is-composed-of-the-follo.csv",
+  "rdo": "RDO NO. 101 - Iligan City, Lanao Del Norte is composed of the following Cit",
+  "region": "raw",
+  "province": [
+   "LANAO DEL NORTE"
+  ],
+  "cities": [
+   "BACOLOD",
+   "BALO-I",
+   "BAROY",
+   "CY GARAGE B PACASUM",
+   "ILIGAN CITY",
+   "KAPATAGAN",
+   "KAROMATAN",
+   "KAUSWAGAN",
+   "KOLAMBUGAN",
+   "LALA",
+   "LINAMON",
+   "MAGSAYSAY",
+   "MAIGO",
+   "MATUNGAO",
+   "MUNAI",
+   "NUNUCAN BRIDGE OBM",
+   "NUNUNGAN",
+   "PANTAO - RAGAT",
+   "PANTAO-RAGAT",
+   "PANTAR"
+  ],
+  "n": 18565
+ },
+ {
+  "f": "data/rdo-102-marawi-city-lanao-del-sur-is-composed-of-the-followi.csv",
+  "rdo": "RDO NO. 102 - Marawi City, Lanao Del Sur  is composed of the following City",
+  "region": "raw",
+  "province": [
+   "I:   LANAO DEL SUR",
+   "LANAO DEL SUR"
+  ],
+  "cities": [
+   "ALONG CITY ROAD**",
+   "AMAI MANABILANG*",
+   "AWAR ST., ABU UBAYDAH IBN AL-JARAAH ST., ABU UBAYDAH IBN AL-JARAAH ST., ABU MUSA AL-ASHARI ST., ABU HARR AL-GHIFARI ST., ABDULLAH IBN JAHS **",
+   "BACOLOD GRANDE, LANAO DEL SUR",
+   "BACOLOD-KALAWI*",
+   "BALABAGAN",
+   "BALABAGAN, LANAO DEL SUR",
+   "BALINDONG",
+   "BALINDONG, LANAO DEL SUR",
+   "BANGOLO POBLACION, RAYA MADAYA 1, RAYA MADAYA 2, SABALA MANAO PROPER, LUMBACA MADAYA, SANGCAY DANSALAN, SABALA MANAO, DANSALAN, DATU NAGA, DATU SA DANSALAN ***",
+   "BAYANG",
+   "BAYANG, LANAO DEL SUR",
+   "BINIDAYAN",
+   "BINIDAYAN, LANAO DEL SUR",
+   "BUADIPOSO BUNTONG*",
+   "BUADIPOSO BUNTONG,LANAO DEL SUR",
+   "BUBONG",
+   "BUBONG, LANAO DEL SUR",
+   "BUMBARAN, LANAO DEL SUR",
+   "BUTIG"
+  ],
+  "n": 6894
+ },
+ {
+  "f": "data/rdo-103-butuan-city-agusan-del-norte-is-composed-of-the-foll.csv",
+  "rdo": "RDO NO. 103 - Butuan City, Agusan Del Norte  is composed of the following C",
+  "region": "raw",
+  "province": [
+   "AGUSAN DEL NORTE",
+   "OF AGUSAN DEL NORTE, WITHIN THE JURISDICTION OF REVENUE DISTRICT OFFICE"
+  ],
+  "cities": [
+   "BUENAVISTA",
+   "BUTUAN CITY",
+   "CABADBARAN",
+   "CABADBARAN CITY",
+   "CARMEN",
+   "From J. Rosales Avenue to E. Ochoa Avenue",
+   "GOVERNMENT SUBDIVISION *",
+   "J. ROSALES - E. OCHOA AVE",
+   "JABONGA",
+   "KITCHARAO",
+   "LAS NIEVES",
+   "MAGALLANES",
+   "NASIPIT",
+   "OF BUTUAN",
+   "OF BUTUAN SUBD. ( ROFEROS )*",
+   "OF BUTUAN SUBDIVISION (MARTIREZ)",
+   "R.T. ROMUALDEZ",
+   "REMEDIOS T. ROMUALDEZ",
+   "SANTIAGO",
+   "SIM BIR 16 SEC14A"
+  ],
+  "n": 14710
+ },
+ {
+  "f": "data/rdo-106-tandag-city-surigao-del-sur-is-composed-of-the-follo.csv",
+  "rdo": "RDO NO. 106 - Tandag City, Surigao Del Sur is composed of the following Cit",
+  "region": "raw",
+  "province": [
+   "SURIGAO DEL SUR"
+  ],
+  "cities": [
+   "BAROBO",
+   "BAYABAS",
+   "BISLIG",
+   "CAGWAIT",
+   "CANTILAN",
+   "CARMEN",
+   "CARRASCAL",
+   "CORTES",
+   "HINATUAN",
+   "LANUZA",
+   "LIANGA",
+   "LINGIG",
+   "MADRID",
+   "MARIHATAG",
+   "SAN AGUSTIN",
+   "SAN MIGUEL",
+   "TAGBINA",
+   "TAGO",
+   "TANDAG"
+  ],
+  "n": 2151
+ },
+ {
+  "f": "data/rdo-115-digos-city-davao-del-sur-is-composed-of-the-followin.csv",
+  "rdo": "RDO NO. 115 - Digos City, Davao del Sur is composed of the following City a",
+  "region": "raw",
+  "province": [
+   ": DAVAO DEL SUR",
+   ": DAVAO OCCIDENTAL",
+   "DAVAO DEL SUR"
+  ],
+  "cities": [
+   "B A N S A L A N",
+   "BANSALAN",
+   "DIGOS",
+   "DON MARCELINO",
+   "HAGONOY",
+   "JOSE ABAD SANTOS",
+   "KIBLAWAN",
+   "MAGSAYSAY",
+   "MALALAG",
+   "MALITA",
+   "MATANAO",
+   "PADADA",
+   "SANTA CRUZ",
+   "SANTA MARIA",
+   "SARANGANI",
+   "SULOP"
+  ],
+  "n": 5147
+ },
+ {
+  "f": "data/rdo-20-balanga-city-bataan-is-composed-of-the-following-city.csv",
+  "rdo": "RDO NO. 20 - Balanga City, Bataan is composed of the following City and Mu",
+  "region": "raw",
+  "province": [
+   "BATAAN"
+  ],
+  "cities": [
+   "ABUCAY",
+   "BAGAC",
+   "BALANGA",
+   "DINALUPIHAN",
+   "HERMOSA",
+   "LIMAY",
+   "MARIVELES",
+   "MORONG",
+   "OF ABUCAY",
+   "OF BAGAC",
+   "OF BAGAC (CONTINUATION)",
+   "OF BALANGA",
+   "OF DINALUPIHAN",
+   "OF HERMOSA",
+   "OF LIMAY",
+   "OF MARIVELES",
+   "OF MORONG",
+   "OF MORONG (CONTINUATION)",
+   "OF ORANI",
+   "OF ORION"
+  ],
+  "n": 17020
+ },
+ {
+  "f": "data/rdo-28-novaliches-quezon-city-is-composed-of-the-following-b.csv",
+  "rdo": "RDO NO. 28 - Novaliches, Quezon City is composed of the following Barangay",
+  "region": "raw",
+  "province": [
+   "NCR"
+  ],
+  "cities": [
+   "Novaliches, Quezon City"
+  ],
+  "n": 16350
+ },
+ {
+  "f": "data/rdo-33-intramuros-ermita-malate-port-area-manila-is-composed.csv",
+  "rdo": "RDO NO. 33 - Intramuros-Ermita-Malate-Port Area, Manila is composed of the",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "MANILA/METRO MANILA"
+  ],
+  "n": 6048
+ },
+ {
+  "f": "data/rdo-37-san-jose-occidental-mindoro-is-composed-of-the-follow.csv",
+  "rdo": "RDO NO. 37 - San Jose, Occidental Mindoro is composed of the following Mun",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "ABRA DE ILOG, OCCIDENTAL MINDORO",
+   "CALINTAAN, OCCIDENTAL MINDORO",
+   "LOOC, OCCIDENTAL MINDORO",
+   "LUBANG, OCCIDENTAL MINDORO",
+   "MAGSAYSAY, OCCIDENTAL MINDORO",
+   "MAMBURAO, OCCIDENTAL MINDORO",
+   "PALUAN, OCCIDENTAL MINDORO",
+   "RIZAL, OCCIDENTAL MINDORO",
+   "SABLAYAN, OCCIDENTAL MINDORO",
+   "SAN JOSE, OCCIDENTAL MINDORO",
+   "STA. CRUZ, OCCIDENTAL MINDORO"
+  ],
+  "n": 4666
+ },
+ {
+  "f": "data/rdo-4-calasiao-west-pangasinan-is-composed-of-the-following-.csv",
+  "rdo": "RDO NO. 4 - Calasiao, West Pangasinan is composed of the following Cities",
+  "region": "raw",
+  "province": [
+   "PANGASINAN"
+  ],
+  "cities": [
+   "ALCALA",
+   "ALCALA, PANGASINAN",
+   "BASISTA",
+   "BASISTA, PANGASINAN",
+   "BAUTISTA",
+   "BAUTISTA, PANGASINAN",
+   "BAYAMBANG",
+   "BAYAMBANG, PANGASINAN",
+   "CALASIAO",
+   "CALASIAO, PANGASINAN",
+   "DAGUPAN",
+   "DAGUPAN CITY",
+   "DAGUPAN CITY, PANGASINAN",
+   "LAOAC",
+   "LAOAC, PANGASINAN",
+   "MALASIQUI",
+   "MALASIQUI, PANGASINAN",
+   "MANAOAG",
+   "MANAOAG, PANGASINAN",
+   "MANGALDAN"
+  ],
+  "n": 26429
+ },
+ {
+  "f": "data/rdo-47-east-makati-city-is-composed-of-the-following-baranga.csv",
+  "rdo": "RDO NO. 47 - East Makati City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "NATIONAL CAPITAL REGION",
+   "NCR"
+  ],
+  "cities": [
+   "HERRERA STREET",
+   "MAKATI CITY",
+   "V.A. RUFINO ST"
+  ],
+  "n": 1140
+ },
+ {
+  "f": "data/rdo-51-pasay-city.csv",
+  "rdo": "RDO NO. 51 - PASAY CITY",
+  "region": "raw",
+  "province": [
+   "NATIONAL  CAPITAL  REGION",
+   "NATIONAL CAPITAL  REGION",
+   "NATIONAL CAPITAL REGION"
+  ],
+  "cities": [
+   "F.B. HARRISON ST",
+   "PASAY CITY",
+   "PASAYCITY"
+  ],
+  "n": 11683
+ },
+ {
+  "f": "data/rdo-52-para-aque-city-is-composed-of-the-following-barangays.csv",
+  "rdo": "RDO NO. 52 - Para\u00f1aque City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "NCR"
+  ],
+  "cities": [
+   "OF PARANAQUE",
+   "PARA\u00d1AQUE",
+   "SQUARE COUNTRY HOMES",
+   "SQUARE HOMES",
+   "SUCAT",
+   "VIEW COUNTRY HOMES"
+  ],
+  "n": 4530
+ },
+ {
+  "f": "data/rdo-59-lipa-city-east-batangas-is-composed-of-the-following-.csv",
+  "rdo": "RDO NO. 59 - Lipa City, East Batangas is composed of the following Cities",
+  "region": "raw",
+  "province": [
+   "BATANGAS"
+  ],
+  "cities": [
+   "AGONCILLO",
+   "ALITAGTAG",
+   "ALONG NATIONAL ROAD",
+   "BALETE",
+   "CUENCA",
+   "IBAAN",
+   "IBAAN, BATANGAS",
+   "LAUREL",
+   "LIPA CITY",
+   "MALVAR",
+   "MATAAS NA KAHOY",
+   "OF AGONCILLO",
+   "OF ALITAGTAG",
+   "OF BALETE",
+   "OF CUENCA",
+   "OF IBAAN",
+   "OF LAUREL",
+   "OF LIPA",
+   "OF MALVAR",
+   "OF MATAAS NA KAHOY"
+  ],
+  "n": 14978
+ },
+ {
+  "f": "data/rdo-74-iloilo-city-iloilo-is-composed-of-the-following-city-.csv",
+  "rdo": "RDO NO. 74 - Iloilo City, Iloilo is composed of the following City and Mun",
+  "region": "raw",
+  "province": [
+   "OF ILOILO: LEGANES, OTON, PAVIA AND SAN MIGUEL (2ND REVISION);"
+  ],
+  "cities": [
+   "ALIMODIAN, ILOILO",
+   "BUENAVISTA, GUIMARAS",
+   "BUENAVISTA, ILOILO",
+   "CABATUAN, ILOILO",
+   "GUIMBAL, ILOILO",
+   "IGBARAS, ILOILO",
+   "ILOILO CITY",
+   "JORDAN, GUIMARAS",
+   "JORDAN, ILOILO",
+   "LEGANES, ILOILO",
+   "LEON, ILOILO",
+   "MA-ASIN, ILOILO",
+   "MAASIN, ILOILO",
+   "MIAG-AO, ILOILO",
+   "MIAGAO, ILOILO",
+   "NUEVA VALENCIA, GUIMARAS",
+   "NUEVA VALENCIA, ILOILO",
+   "OTON, ILOILO",
+   "PAVIA, ILOILO",
+   "SAN JOAQUIN, ILOILO"
+  ],
+  "n": 13750
+ },
+ {
+  "f": "data/rdo-77-bacolod-city-negros-occidental-is-composed-of-the-fol.csv",
+  "rdo": "RDO NO. 77 - Bacolod City, Negros Occidental is composed of the following",
+  "region": "Zonal Values - Revenue Region 12 - Bacolod City",
+  "province": [
+   "Negros Occidental"
+  ],
+  "cities": [
+   "Bacolod City",
+   "DON SALVADOR BENEDICTO",
+   "HEIGTS PHASE I & II",
+   "HTS PH I II",
+   "MURCIA",
+   "MURCIA, NEGROS OCCIDENTAL",
+   "OF SILAY",
+   "OF TALISAY",
+   "SALVADOR BENEDICTO, NEGROS OCCIDENTAL",
+   "Silay City",
+   "Talisay City"
+  ],
+  "n": 6548
+ },
+ {
+  "f": "data/rdo-81-cebu-city-north.csv",
+  "rdo": "RDO NO. 81 - Cebu City, North",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "CEBU CITY",
+   "LIGHTS GARDEN TOWERS CONDO 1, 2, 3 & 4",
+   "T. PADILLA ST"
+  ],
+  "n": 2899
+ },
+ {
+  "f": "data/rdo-82-cebu-city-south.csv",
+  "rdo": "RDO NO. 82 - Cebu City, South",
+  "region": "raw",
+  "province": [
+   "CEBU"
+  ],
+  "cities": [
+   "CEBU CITY",
+   "CEBU CITY SOUTH"
+  ],
+  "n": 9216
+ },
+ {
+  "f": "data/rdo-87-catbalogan-city-is-composed-of-the-following-cities-m.csv",
+  "rdo": "RDO NO. 87- CATBALOGAN CITY is composed of the following Cities/Municipal",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "ALMAGRO",
+   "ALMAGRO, SAMAR",
+   "BASEY",
+   "BASEY, SAMAR",
+   "CALBAYOG CITY",
+   "CALBIGA",
+   "CALBIGA, SAMAR",
+   "CATBALOGAN",
+   "CATBALOGAN CITY",
+   "DARAM",
+   "DARAM, SAMAR",
+   "GANDARA",
+   "HINABANGAN",
+   "HINABANGAN, SAMAR",
+   "JIABONG",
+   "JIABONG, SAMAR",
+   "MARABUT",
+   "MARABUT, SAMAR",
+   "MATUGUINAO",
+   "MATUGUINAO, SAMAR"
+  ],
+  "n": 3914
+ },
+ {
+  "f": "data/rdo-90-maasin-city-southern-leyte-is-composed-of-the-followi.csv",
+  "rdo": "RDO NO. 90 - Maasin City, Southern Leyte is composed of the following City",
+  "region": "raw",
+  "province": [
+   ":        SOUTHERN LEYTE",
+   "SOUTHERN LEYTE"
+  ],
+  "cities": [
+   "ANAHAWAN",
+   "ANAHAWAN, SOUTHERN LEYTE",
+   "BONTOC",
+   "HINUNANGAN",
+   "HINUNANGAN, SOUTHERN LEYTE",
+   "HINUNDAYAN",
+   "LIBAGON",
+   "LILOAN",
+   "LILOAN, SOUTHERN LEYTE",
+   "LIMASAWA",
+   "MAASIN",
+   "MAASIN SOUTHERN LEYTE",
+   "MACROHON",
+   "MALITBOG",
+   "PADRE BURGOS",
+   "PINTUYAN",
+   "PINTUYAN, SOUTHERN LEYTE",
+   "SAINT BERNARD",
+   "SAN FRANCISCO",
+   "SAN JUAN"
+  ],
+  "n": 8652
+ },
+ {
+  "f": "data/rdo-92-pagadian-city-zamboanga-del-sur-is-composed-of-the-fo.csv",
+  "rdo": "RDO NO. 92 - Pagadian City, Zamboanga Del Sur is composed of the following",
+  "region": "raw",
+  "province": [
+   "ZAMBOANGA DEL SUR",
+   "Zamboanga del Sur"
+  ],
+  "cities": [
+   "AURORA",
+   "BAYOG",
+   "DIMATALING",
+   "DINAS",
+   "DUMALINAO",
+   "DUMINGAG",
+   "GUIPOS",
+   "JOSEFINA",
+   "KUMALARANG",
+   "LABANGAN",
+   "LAKEWOOD",
+   "LAPUYAN",
+   "MAHAYAG",
+   "MARGOSATUBIG",
+   "MIDSALIP",
+   "MOLAVE",
+   "PAGADIAN",
+   "PAGADIAN CITY",
+   "PITOGO",
+   "Pagadian City"
+  ],
+  "n": 6244
+ },
+ {
+  "f": "data/rdo-94-isabela-basilan-is-composed-of-the-following-cities-m.csv",
+  "rdo": "RDO NO. 94 - Isabela, Basilan is composed of the following Cities & Munici",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "Akbar Municipality",
+   "Al-Barka Municipality",
+   "Hadji Mohammad Ajul Municipality",
+   "Hadji Muhtamad Municipality",
+   "ISABELA, BASILAN",
+   "Isabela City",
+   "LAMITAN",
+   "LANTAWAN",
+   "Lamitan City",
+   "Lamitan Municipality",
+   "Lantawan Municipality",
+   "MALUSO",
+   "Maluso Municipality",
+   "SUMISIP",
+   "Sumisip Municipality",
+   "TIPO - TIPO",
+   "TUBURAN",
+   "Tabuan Lasa Municipality",
+   "Tipo-Tipo Municipality",
+   "Tuburan Municipalty"
+  ],
+  "n": 4869
+ },
+ {
+  "f": "data/rdo-95-jolo-sulu-is-composed-of-the-following-municipalities.csv",
+  "rdo": "RDO NO. 95 - Jolo, Sulu is composed of the following Municipalities:",
+  "region": "raw",
+  "province": [
+   "SULU"
+  ],
+  "cities": [
+   "INDANAN",
+   "JOLO",
+   "KALINGALAN CALUANG",
+   "KALINGALANG CALUANG",
+   "LUGUS",
+   "LUUK",
+   "MAIMBUNG",
+   "MARUNGAS",
+   "OMAR",
+   "PANAMAO",
+   "PANDAMI",
+   "PANGLIMA ESTINO",
+   "PANGLIMA TAHIL",
+   "PANGUTARAN",
+   "PARANG",
+   "PATA",
+   "PATIKUL",
+   "SIASI",
+   "TALIPAO",
+   "TAPUL"
+  ],
+  "n": 743
+ },
+ {
+  "f": "data/rdo-96-bongao-tawi-tawi-is-composed-of-the-following-municip.csv",
+  "rdo": "RDO NO. 96 - Bongao, Tawi-Tawi is composed of the following Municipalities",
+  "region": "raw",
+  "province": [
+   "TAWI-TAWI"
+  ],
+  "cities": [
+   "BONGAO",
+   "LANGUYAN",
+   "MAPUN",
+   "PANGLIMA SUGALA",
+   "SAPA-SAPA",
+   "SIBUTU",
+   "SIBUTU (New Municipality, formerly part of Sitangkai)",
+   "SIMUNUL",
+   "SITANGKAI",
+   "SOUTH UBIAN",
+   "TANDUBAS",
+   "TURTLE ISLAND",
+   "TURTLE ISLANDS"
+  ],
+  "n": 824
+ },
+ {
+  "f": "data/rdo-97-gingoog-city-misamis-oriental-is-composed-of-the-foll.csv",
+  "rdo": "RDO NO. 97 - Gingoog City, Misamis Oriental is composed of the following C",
+  "region": "raw",
+  "province": [
+   ": MISAMIS ORIENTAL",
+   "CAMIGUIN",
+   "MISAMIS ORIENTAL"
+  ],
+  "cities": [
+   "BALINGASAG",
+   "BALINGOAN",
+   "BINUANGAN",
+   "CATARMAN",
+   "CLAVERIA",
+   "GINGOOG CITY",
+   "GUINSILIBAN",
+   "KINOGUITAN",
+   "LAGONGLONG",
+   "MAGSAYSAY",
+   "MAHINOG",
+   "MAMBAJAO",
+   "MEDINA",
+   "OF CATARMAN",
+   "OF GINGOOG",
+   "OF GUINSILIBAN",
+   "OF MAHINOG",
+   "OF MAMBAJAO",
+   "OF SAGAY",
+   "SAGAY"
+  ],
+  "n": 4980
+ },
+ {
+  "f": "data/rdo-98-cagayan-de-oro-city-misamis-oriental-is-composed-of-t.csv",
+  "rdo": "RDO NO. 98 - Cagayan De Oro City, Misamis Oriental Is composed of the foll",
+  "region": "raw",
+  "province": [
+   "MISAMIS ORIENTAL"
+  ],
+  "cities": [
+   "ALONG CITY ROAD",
+   "ALUBIJID",
+   "BALINGASAG",
+   "CAGAYAN DE ORO",
+   "CAGAYAN DE ORO CITY",
+   "CEMETERY",
+   "CLAVERIA",
+   "EL SALVADOR",
+   "GITAGUM",
+   "HALL EMPLOYEES VILLAGE",
+   "INITAO",
+   "JASAAN",
+   "LAGUINDINGAN",
+   "LIBERTAD",
+   "LUGAIT",
+   "MANTICAO",
+   "NAAWAN",
+   "OF CAGAYAN DE ORO",
+   "OPOL",
+   "SECTION 8 SHT 1"
+  ],
+  "n": 23240
+ },
+ {
+  "f": "data/rdo-1-laoag-city-ilocos-norte-is-composed-of-the-following-c.csv",
+  "rdo": "RDO No. 1 - Laoag City, Ilocos Norte is composed of the following City an",
+  "region": "raw",
+  "province": [
+   "ILOCOS NORTE"
+  ],
+  "cities": [
+   "ADAMS",
+   "ADAMS, ILOCOS NORTE",
+   "BACARRA",
+   "BACARRA, ILOCOS NORTE",
+   "BADOC",
+   "BADOC, ILOCOS NORTE",
+   "BANGUI",
+   "BANGUI, ILOCOS NORTE",
+   "BANNA",
+   "BANNA, ILOCOS NORTE",
+   "BATAC",
+   "BATAC, ILOCOS NORTE",
+   "BURGOS",
+   "BURGOS, ILOCOS NORTE",
+   "CARASI",
+   "CARASI, ILOCOS NORTE",
+   "CURRIMAO",
+   "CURRIMAO, ILOCOS NORTE",
+   "DINGRAS",
+   "DINGRAS, ILOCOS NORTE"
+  ],
+  "n": 40149
+ },
+ {
+  "f": "data/rdo-10-bontoc-mt-province-is-composed-of-the-following-munic.csv",
+  "rdo": "RDO No. 10 - Bontoc, Mt. Province is composed of the following Municipalit",
+  "region": "raw",
+  "province": [
+   "MOUNTAIN PROVINCE"
+  ],
+  "cities": [
+   "BARLIG",
+   "BAUKO",
+   "BESAO",
+   "BONTOC",
+   "NATONIN",
+   "OF BARLIG",
+   "OF BARLIG, MOUNTAIN PROVINCE",
+   "OF BAUKO",
+   "OF BESAO",
+   "OF BONTOC",
+   "OF NATONIN",
+   "OF PARACELIS (PARACALES)",
+   "OF SABANGAN",
+   "OF SADANGA",
+   "OF SAGADA",
+   "OF TADIAN",
+   "PARACELIS",
+   "SABANGAN",
+   "SADANGA",
+   "SAGADA"
+  ],
+  "n": 20256
+ },
+ {
+  "f": "data/rdo-100-ozamiz-city-misamis-occidental-is-composed-of-the-fo.csv",
+  "rdo": "RDO No. 100 - Ozamiz City, Misamis Occidental  is composed of the following",
+  "region": "raw",
+  "province": [
+   "MISAMIS OCCIDENTAL"
+  ],
+  "cities": [
+   "ALORAN",
+   "BALIANGAO",
+   "BONIFACIO",
+   "CALAMBA",
+   "CLARIN",
+   "CONCEPCION",
+   "DON VICTORIANO CHIONGBIAN*",
+   "JIMENEZ",
+   "LOPEZ JAENA",
+   "OF OROQUIETA CITY",
+   "OF TANGUB CITY",
+   "OROQUIETA CITY",
+   "OZAMIZ CITY",
+   "PANAON",
+   "PLARIDEL",
+   "SAPANG DALAGA",
+   "SINACABAN",
+   "TANGUB CITY",
+   "TUDELA"
+  ],
+  "n": 3112
+ },
+ {
+  "f": "data/rdo-104-bayugan-city-agusan-del-sur-is-composed-of-the-follo.csv",
+  "rdo": "RDO No. 104 - Bayugan City, Agusan Del Sur is composed of the following Cit",
+  "region": "Quick Links - Zonal Values - Revenue Region 17 - Butuan City",
+  "province": [
+   ":    AGUSAN DEL SUR",
+   "AGUSAN DEL SUR"
+  ],
+  "cities": [
+   "BAYUGAN CITY",
+   "BAYUGAN, AGUSAN DEL SUR",
+   "BUNAWAN",
+   "BUNAWAN, AGUSAN DEL SUR",
+   "ESPERANZA",
+   "ESPERANZA, AGUSAN DEL SUR",
+   "LA PAZ",
+   "LA PAZ, AGUSAN DEL SUR",
+   "LORETO",
+   "LORETO, AGUSAN DEL SUR",
+   "PROSPERIDAD",
+   "PROSPERIDAD, AGUSAN DEL SUR",
+   "ROSARIO",
+   "ROSARIO, AGUSAN DEL SUR",
+   "SAN FRANCISCO",
+   "SAN FRANCISCO, AGUSAN DEL SUR",
+   "SAN LUIS",
+   "SAN LUIS, AGUSAN DEL SUR",
+   "SIBAGAT",
+   "SIBAGAT, AGUSAN DEL SUR"
+  ],
+  "n": 3685
+ },
+ {
+  "f": "data/rdo-105-surigao-city-surigao-del-norte-is-composed-of-the-fo.csv",
+  "rdo": "RDO No. 105 - Surigao City, Surigao Del Norte is composed of the folowing C",
+  "region": "raw",
+  "province": [
+   "/CITY/MUNICIPALITY/BARANGAYS",
+   ":       DINAGAT ISLANDS",
+   ":       SURIGAO DEL NORTE",
+   ":DINAGAT ISLANDS",
+   ":SURIGAO DEL NORTE",
+   ":SURIGAO DEL NORTE (SIARGAO ISLANDS)"
+  ],
+  "cities": [
+   "ALEGRIA",
+   "ALEGRIA, SURIGAO",
+   "BACUAG",
+   "BACUAG, SURIGAO",
+   "BASILISA",
+   "BASILISA (also known as RIZAL)",
+   "BASILISA, SURIGAO",
+   "BURGOS",
+   "BURGOS (SIARGAO ISLAND)",
+   "BURGOS, SURIGAO",
+   "CAGDIANAO",
+   "CAGDIANAO, SURIGAO",
+   "CAGDIANO, SURIGAO",
+   "CLAVER",
+   "CLAVER, SURIGAO",
+   "DAPA",
+   "DAPA (SIARGAO ISLAND)",
+   "DAPA, SURIGAO",
+   "DEL CARMEN",
+   "DEL CARMEN (SIARGAO ISLAND)"
+  ],
+  "n": 48561
+ },
+ {
+  "f": "data/rdo-107-cotabato-city-is-composed-of-the-following-city-and-.csv",
+  "rdo": "RDO No. 107 - Cotabato City is composed of the following City and Municipal",
+  "region": "raw",
+  "province": [
+   "MAGUINDANAO"
+  ],
+  "cities": [
+   "AMPATUAN",
+   "BARIRA",
+   "BULDON",
+   "BULUAN",
+   "COTABATO CITY",
+   "DATU ABDULLAH SANGKI",
+   "DATU ANGGAL MIDTIMBANG",
+   "DATU BLAH SINSUAT",
+   "DATU BLAH T. SINSUAT",
+   "DATU HOFFER AMPATUAN",
+   "DATU MONTAWAL",
+   "DATU ODIN SINSUAT",
+   "DATU PAGLAS",
+   "DATU PIANG",
+   "DATU SALIBO",
+   "DATU SAUDI AMPATUAN",
+   "DATU UNSAY",
+   "GEN. S.K. PENDATUN",
+   "GEN. SALIPADA K. PENDATUN",
+   "GUINDULUNGAN"
+  ],
+  "n": 15182
+ },
+ {
+  "f": "data/rdo-108-kidapawan-city-north-cotabato-is-composed-of-the-fol.csv",
+  "rdo": "RDO No. 108 - Kidapawan City, North Cotabato is composed of the following C",
+  "region": "raw",
+  "province": [
+   ": COTABATO",
+   ": PROVINCE OF COTABATO",
+   ":COTABATO",
+   "NORTH COTABATO"
+  ],
+  "cities": [
+   "ALAMADA",
+   "ALEOSAN",
+   "ANTIPAS",
+   "ARAKAN",
+   "BANISILAN",
+   "CARMEN",
+   "KABACAN",
+   "KIDAPAWAN CITY",
+   "LIBUNGAN",
+   "M'LANG",
+   "MAGPET",
+   "MAKILALA",
+   "MAKILALA (CONTINUATION)",
+   "MATALAM",
+   "MIDSAYAP",
+   "OF ALEOSAN",
+   "OF ANTIPAS",
+   "OF ARAKAN",
+   "OF BANISILAN",
+   "OF CARMEN"
+  ],
+  "n": 43550
+ },
+ {
+  "f": "data/rdo-109-tacurong-city-sultan-kudarat-is-composed-of-the-foll.csv",
+  "rdo": "RDO No. 109 - Tacurong City, Sultan Kudarat is composed of the following Ci",
+  "region": "raw",
+  "province": [
+   ":   SULTAN KUDARAT",
+   ":  SULTAN KUDARAT",
+   ": SULTAN KUDARAT",
+   "SULTAN KUDARAT"
+  ],
+  "cities": [
+   "BAGUMBAYAN",
+   "COLUMBIO",
+   "ESPERANZA",
+   "ISULAN",
+   "KALAMANSIG",
+   "LAMBAYONG",
+   "LEBAK",
+   "LUTAYAN",
+   "OF BAGUMBAYAN",
+   "OF COLUMBIO",
+   "OF ESPERANZA",
+   "OF ISULAN",
+   "OF KALAMANSIG",
+   "OF LAMBAYONG",
+   "OF LEBAK",
+   "OF LUTAYAN",
+   "OF PRES. QUIRINO",
+   "OF TACURONG",
+   "PALIMBANG",
+   "PRESIDENT QUIRINO"
+  ],
+  "n": 6202
+ },
+ {
+  "f": "data/rdo-11-tabuk-city-kalinga-is-composed-of-the-following-munic.csv",
+  "rdo": "RDO No. 11 - Tabuk City, Kalinga is composed of the following Municipaliti",
+  "region": "raw",
+  "province": [
+   "OF APAYAO",
+   "OF KALINGA"
+  ],
+  "cities": [
+   "(CONTINUATION)",
+   "OF B A L B A L A N",
+   "OF BALBALAN",
+   "OF C A L A N A S A N",
+   "OF C O R N N E R",
+   "OF CALANASAN",
+   "OF CONNER",
+   "OF F L O R A",
+   "OF FLORA",
+   "OF K A B U G A O",
+   "OF KABUGAO",
+   "OF L U N A",
+   "OF LUBUAGAN",
+   "OF LUNA",
+   "OF P A S I L",
+   "OF P I N U K P U K",
+   "OF P U D T O L",
+   "OF PASIL",
+   "OF PINUKPUK",
+   "OF PUDTOL"
+  ],
+  "n": 7267
+ },
+ {
+  "f": "data/rdo-110-genaral-santos-city-south-cotabato-is-composed-of-th.csv",
+  "rdo": "RDO No. 110 - Genaral Santos City, South Cotabato is composed of the follow",
+  "region": "raw",
+  "province": [
+   ":   SARANGANI PROVINCE",
+   ":  SARANGANI PROVINCE",
+   ": SARANGANI PROVINCE",
+   ": SOUTH COTABATO"
+  ],
+  "cities": [
+   "ALABEL",
+   "GENERAL SANTOS CITY",
+   "GENERAL SANTOS CITY CITY",
+   "GLAN",
+   "KIAMBA",
+   "MAASIM",
+   "MAITUM",
+   "MALAPATAN",
+   "MALUNGON",
+   "OF ALABEL",
+   "OF GEN. SANTOS",
+   "OF GLAN",
+   "OF KIAMBA",
+   "OF MAASIM",
+   "OF MAITUM",
+   "OF MALAPATAN",
+   "OF MALUNGON"
+  ],
+  "n": 9122
+ },
+ {
+  "f": "data/rdo-111-koronadal-city-south-cotabato-is-composed-of-the-fol.csv",
+  "rdo": "RDO No. 111 - Koronadal City, South Cotabato is composed of the following C",
+  "region": "raw",
+  "province": [
+   ":  SOUTH COTABATO"
+  ],
+  "cities": [
+   "BANGA",
+   "KORONADAL",
+   "KORONADAL CITY",
+   "LAKE SEBU",
+   "NORALA",
+   "OF BANGA",
+   "OF KORONADAL",
+   "OF LAKE SEBU",
+   "OF NORALA",
+   "OF POLOMOLOK",
+   "OF SANTO NINO",
+   "OF SURALLAH",
+   "OF T'BOLI",
+   "OF TAMPAKAN",
+   "OF TANTANGAN",
+   "OF TUPI",
+   "POLOMOLOK",
+   "SANTO NINO",
+   "SANTO NI\u00d1O",
+   "SURALLAH"
+  ],
+  "n": 7488
+ },
+ {
+  "f": "data/rdo-112-tagum-city-davao-del-norte-is-composed-of-the-follow.csv",
+  "rdo": "RDO No. 112 - Tagum City, Davao del Norte is composed of the following Prov",
+  "region": "raw",
+  "province": [
+   "COMPOSTELA VALLEY",
+   "DAVAO DEL NORTE"
+  ],
+  "cities": [
+   "ASUNCION",
+   "B.E. DUJALI",
+   "BABAK",
+   "CARMEN",
+   "COMPOSTELA",
+   "DUJALI",
+   "KAPALONG",
+   "KAPUTIAN",
+   "LAAK (FORMERLY SAN VICENTE)",
+   "LAAK (formerly SAN VICENTE)",
+   "MABINI",
+   "MACO",
+   "MARAGUSAN (FORMERLY SAN MARIANO)",
+   "MARAGUSAN (formerly SAN MARIANO)",
+   "MAWAB",
+   "MONKAYO",
+   "MONTEVISTA",
+   "NABUNTURAN",
+   "NEW BATAAN",
+   "NEW CORELLA"
+  ],
+  "n": 32543
+ },
+ {
+  "f": "data/rdo-113a-west-davao-city-and-rdo-113b-132-east-davao-city.csv",
+  "rdo": "RDO No. 113A - West Davao City and RDO No. 113B (132) - East Davao City",
+  "region": "raw",
+  "province": [
+   ":  DAVAO DEL SUR",
+   ": DAVAO DEL SUR"
+  ],
+  "cities": [
+   "DAVAO CITY",
+   "GOV'T SUBD"
+  ],
+  "n": 15483
+ },
+ {
+  "f": "data/rdo-113a-west-davao-city-and-rdo-113b-132-east-davao-city.csv",
+  "rdo": "RDO No. 113A - West Davao City and RDO No. 113B (132) - East Davao City.",
+  "region": "raw",
+  "province": [
+   ": DAVAO DEL SUR"
+  ],
+  "cities": [
+   "DAVAO CITY",
+   "GOV'T SUBD"
+  ],
+  "n": 11283
+ },
+ {
+  "f": "data/rdo-114-mati-city-davao-oriental-is-composed-of-the-followin.csv",
+  "rdo": "RDO No. 114 - Mati City, Davao Oriental is composed of the following City a",
+  "region": "raw",
+  "province": [
+   "DAVAO ORIENTAL"
+  ],
+  "cities": [
+   "B O S T O N",
+   "BAGANGA",
+   "BANAY - BANAY",
+   "BANAY-BANAY",
+   "BOSTON",
+   "C A R A G A",
+   "C A T E E L",
+   "CARAGA",
+   "CATEEL",
+   "G O V E R N O R G E N E R O S O",
+   "GOVERNOR GENEROSO",
+   "L U P O N",
+   "LUPON",
+   "M A N A Y",
+   "M A T I",
+   "MANAY",
+   "MATI",
+   "MATI CITY",
+   "OF BA NAY - BANAY",
+   "OF BAGANGA"
+  ],
+  "n": 20004
+ },
+ {
+  "f": "data/rdo-12-lagawe-ifugao-is-composed-of-the-following-municipali.csv",
+  "rdo": "RDO No. 12 - Lagawe, Ifugao is composed of the following Municipalities:",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "AGUINALDO",
+   "ALFONSO LISTA (POTIA)",
+   "ASIPULO",
+   "BANAUE",
+   "HINGYON",
+   "HUNGDUAN",
+   "KIANGAN",
+   "LAGAWE",
+   "LAMUT",
+   "MAYOYAO",
+   "OF A G U I N A L D O",
+   "OF A. L I S T A (POTIA)",
+   "OF B A N A U E",
+   "OF H I N G Y O N",
+   "OF H U N G D U A N",
+   "OF K I A N G A N",
+   "OF L A G A W E",
+   "OF L A M U T",
+   "OF M A Y O Y A O",
+   "OF T I N O C"
+  ],
+  "n": 3640
+ },
+ {
+  "f": "data/rdo-13-tuguegarao-city-is-composed-of-the-following-city-and.csv",
+  "rdo": "RDO No. 13 - Tuguegarao City is composed of the following City and Municip",
+  "region": "raw",
+  "province": [
+   "BATANES",
+   "CAGAYAN",
+   "CAGAYAN                                                    _",
+   "OF  CAGAYAN, UNDER    REVENUE  DISTRICT  OFFICE NO. 9,     REVENUE  REGION  2,",
+   "OF CAGAYAN"
+  ],
+  "cities": [
+   "ABULUG",
+   "ALCALA",
+   "ALLACAPAN",
+   "AMULUNG",
+   "APARRI",
+   "BAGGAO",
+   "BALLESTEROS",
+   "BASCO",
+   "BUGUEY",
+   "CALAYAN",
+   "CAMALANIUGAN",
+   "CLAVERIA",
+   "ENRILE",
+   "GATTARAN",
+   "GONZAGA",
+   "IGUIG",
+   "ITBAYAT",
+   "IVANA",
+   "LAL-LO",
+   "LASAM"
+  ],
+  "n": 42854
+ },
+ {
+  "f": "data/rdo-14-bayombong-nueva-vizcaya-is-composed-of-the-following-.csv",
+  "rdo": "RDO No. 14 - Bayombong, Nueva Vizcaya is composed of the following Municip",
+  "region": "raw",
+  "province": [
+   "NUEVA VIZCAYA"
+  ],
+  "cities": [
+   "ALFONSO CASTANEDA",
+   "ALFONSO CASTA\u00d1EDA",
+   "AMBAGUIO",
+   "ARITAO",
+   "BAGABAG",
+   "BAGABAG (continuation)",
+   "BAMBANG",
+   "BAYOMBONG",
+   "DIADI",
+   "DUPAX DEL NORTE",
+   "DUPAX DEL SUR",
+   "KASIBU",
+   "KAYAPA",
+   "QUEZON",
+   "SANTA FE",
+   "SOLANO",
+   "VILLAVERDE"
+  ],
+  "n": 4165
+ },
+ {
+  "f": "data/rdo-15-naguilian-isabela-formerly-ilagan-isabela-is-composed.csv",
+  "rdo": "RDO No. 15 - Naguilian, Isabela (formerly Ilagan, Isabela) is composed of",
+  "region": "raw",
+  "province": [
+   "ISABELA",
+   "OF ISABELA"
+  ],
+  "cities": [
+   "ALICIA",
+   "ANGADANAN",
+   "AURORA",
+   "BENITO SOLIVEN",
+   "BURGOS",
+   "CABAGAN",
+   "CABATUAN",
+   "CAUAYAN",
+   "CAUAYAN CITY",
+   "CORDON",
+   "DELFIN ALBANO",
+   "DINAPIGUE*",
+   "DINAPIGUI",
+   "DIVILACAN",
+   "ECHAGUE",
+   "GAMU",
+   "ILAGAN",
+   "JONES",
+   "LUNA",
+   "MACONACON"
+  ],
+  "n": 27948
+ },
+ {
+  "f": "data/rdo-16-cabarroguis-quirino-is-composed-of-the-following-muni.csv",
+  "rdo": "RDO No. 16 - Cabarroguis, Quirino is composed of the following Municipalit",
+  "region": "raw",
+  "province": [
+   "OF QUIRINO",
+   "QUIRINO"
+  ],
+  "cities": [
+   "AGLIPAY",
+   "CABARROGUIS",
+   "DIFFUN",
+   "MADDELA",
+   "NAGTIPUNAN",
+   "OF AGLIPAY",
+   "OF CABARROGUIS",
+   "OF DIFFUN",
+   "OF MADELLA",
+   "OF NAGTIPUNAN",
+   "OF SAGUDAY",
+   "SAGUDAY"
+  ],
+  "n": 6906
+ },
+ {
+  "f": "data/rdo-17a-tarlac-city-tarlac-is-composed-of-the-following-city.csv",
+  "rdo": "RDO No. 17A - Tarlac City, Tarlac is composed of the following City and Mun",
+  "region": "raw",
+  "province": [
+   "TARLAC"
+  ],
+  "cities": [
+   "ANAO, TARLAC",
+   "BAMBAN",
+   "BAMBAN, TARLAC",
+   "CAMILING, TARLAC",
+   "CAPAS",
+   "CAPAS, TARALC",
+   "CAPAS, TARLAC",
+   "CONCEPCION",
+   "CONCEPCION, TARALC",
+   "CONCEPCION, TARLAC",
+   "GERONA, TARLAC",
+   "LA PAZ",
+   "LA PAZ, TARLAC",
+   "MAYANTOC, TARLAC",
+   "MONCADA",
+   "MONCADA, TARLAC",
+   "OF TARLAC",
+   "PANIQUI, TARLAC",
+   "PURA, TARLAC",
+   "RAMOS, TARLAC"
+  ],
+  "n": 14883
+ },
+ {
+  "f": "data/rdo-17b-paniqui-tarlac-is-composed-of-the-following-municipa.csv",
+  "rdo": "RDO No. 17B - Paniqui, Tarlac is composed of the following Municipalities:",
+  "region": "raw",
+  "province": [
+   ": TARLAC",
+   "TARLAC"
+  ],
+  "cities": [
+   "ANAO",
+   "ANAO, TARLAC",
+   "BAMBAN, TARLAC",
+   "CAMILING",
+   "CAMILING, TARLAC",
+   "CAPAS, TARALC",
+   "CAPAS, TARLAC",
+   "CONCEPCION, TARALC",
+   "CONCEPCION, TARLAC",
+   "GERONA",
+   "GERONA, TARLAC",
+   "LA PAZ, TARLAC",
+   "MAYANTOC",
+   "MAYANTOC, TARLAC",
+   "MONCADA",
+   "MONCADA, TARLAC",
+   "PANIQUI",
+   "PANIQUI, TARLAC",
+   "PURA",
+   "PURA, TARLAC"
+  ],
+  "n": 19366
+ },
+ {
+  "f": "data/rdo-18-olongapo-city-zambales.csv",
+  "rdo": "RDO No. 18 - Olongapo City Zambales",
+  "region": "raw",
+  "province": [
+   "ZAMBALES"
+  ],
+  "cities": [
+   "BOTOLAN",
+   "CABANGAN",
+   "CANDELARIA",
+   "CASTILLEJOS",
+   "IBA",
+   "MASINLOC",
+   "OF BOTOLAN",
+   "OF CABANGAN",
+   "OF CANDELARIA",
+   "OF CASTILLEJOS",
+   "OF IBA",
+   "OF MASINLOC",
+   "OF PALAUIG",
+   "OF SAN ANTONIO",
+   "OF SAN FELIPE",
+   "OF SAN MARCELINO",
+   "OF SAN NARCISO",
+   "OF SANTA CRUZ",
+   "OF SUBIC",
+   "OLONGAPO"
+  ],
+  "n": 5687
+ },
+ {
+  "f": "data/rdo-2-vigan-city-ilocos-sur-is-composed-of-the-following-cit.csv",
+  "rdo": "RDO No. 2 - Vigan City, Ilocos Sur - is composed of the following Cities",
+  "region": "raw",
+  "province": [
+   ":  ILOCOS SUR",
+   "ILOCOS SUR"
+  ],
+  "cities": [
+   "ALILEM, ILOCOS SUR",
+   "BANAYOYO, ILOCOS SUR",
+   "BANTAY, ILOCOS SUR",
+   "BURGOS, ILOCOS SUR",
+   "CABUGAO, ILOCOS SUR",
+   "CANDON CITY, ILOCOS SUR",
+   "CANDON, ILOCOS SUR",
+   "CAOAYAN, ILOCOS SUR",
+   "CERVANTES",
+   "CERVANTES, ILOCOS SUR",
+   "GALIMUYOD, ILOCOS SUR",
+   "GREGORIO DEL PILAR, ILOCOS SUR",
+   "LIDLIDDA, ILOCOS SUR",
+   "MAGSINGAL, ILOCOS SUR",
+   "NAGBUKEL, ILOCOS SUR",
+   "NARVACAN, ILOCOS SUR",
+   "QUIRINO (ANGKAKI), ILOCOS SUR",
+   "QUIRINO, ILOCOS SUR",
+   "SALCEDO, ILOCOS SUR",
+   "SAN EMILIO, ILOCOS SUR"
+  ],
+  "n": 30357
+ },
+ {
+  "f": "data/rdo-21a-north-pampanga-and-rdo-21b-south-pampanga.csv",
+  "rdo": "RDO No. 21A - North Pampanga and RDO 21B - South Pampanga",
+  "region": "raw",
+  "province": [
+   "OF       PAMPANGA,       UNDER          REVENUE       DISTRICT",
+   "PAMPANGA"
+  ],
+  "cities": [
+   "APALIT",
+   "ARAYAT, PAMPANGA",
+   "BACOLOR",
+   "CANDABA",
+   "FLORIDA BLANCA",
+   "FLORIDABLANCA",
+   "GUAGUA",
+   "LUBAO",
+   "MABALACAT",
+   "MACABEBE",
+   "MACABEBE, PAMPANGA",
+   "MAGALANG",
+   "MASANTOL",
+   "MEXICO",
+   "MINALIN",
+   "PORAC",
+   "SAN FERNANDO",
+   "SAN FERNANDO CITY",
+   "SAN LUIS",
+   "SAN SIMON"
+  ],
+  "n": 20646
+ },
+ {
+  "f": "data/rdo-21a-north-pampanga-and-rdo-21b-south-pampanga.csv",
+  "rdo": "RDO No. 21A - North Pampanga and RDO No. 21B - South Pampanga",
+  "region": "raw",
+  "province": [
+   ":      PAMPANGA",
+   ":     PAMPANGA",
+   ": PAMPANGA",
+   ":PAMPANGA"
+  ],
+  "cities": [
+   "ANGELES",
+   "ANGELES CITY",
+   "APALIT",
+   "ARAYAT",
+   "ARAYAT, PAMPANGA",
+   "BACOLOR",
+   "CANDABA",
+   "FLORIDA BLANCA",
+   "FLORIDABLANCA",
+   "GUAGUA",
+   "HALL SITE",
+   "LUBAO",
+   "MABALACAT",
+   "MABALACAT, PAMPANGA",
+   "MACABEBE",
+   "MACABEBE, PAMPANGA",
+   "MAGALANG",
+   "MASANTOL",
+   "MEXICO",
+   "MEXICO, PAMPANGA"
+  ],
+  "n": 10142
+ },
+ {
+  "f": "data/rdo-22-baler-aurora-is-composed-of-the-following-municipalit.csv",
+  "rdo": "RDO No. 22 - Baler, Aurora is composed of the following Municipalities:",
+  "region": "Zonal Values - Revenue Region 4 - San Fernando_ Pampanga",
+  "province": [
+   ": AURORA"
+  ],
+  "cities": [
+   "BALER",
+   "BALER, AURORA",
+   "CASIGURAN",
+   "CASIGURAN, AURORA",
+   "DILASAG",
+   "DILASAG, AURORA",
+   "DINALONGAN, AURORA",
+   "DINALUNGAN",
+   "DINALUNGAN, AURORA",
+   "DINGALAN",
+   "DINGALAN, AURORA",
+   "DIPACULAO",
+   "DIPACULAO, AURORA",
+   "MARIA AURORA",
+   "MARIA AURORA, AURORA",
+   "SAN LUIS",
+   "SAN LUIS, AURORA"
+  ],
+  "n": 7654
+ },
+ {
+  "f": "data/rdo-23a-north-nueva-ecija-and-rdo-23b-south-nueva-ecija.csv",
+  "rdo": "RDO No. 23A - North Nueva Ecija and RDO No. 23B - South Nueva Ecija.",
+  "region": "raw",
+  "province": [
+   ":  NUEVA ECIJA",
+   ": NUEVA ECIJA",
+   ":NUEVA ECIJA",
+   "NUEVA ECIJA"
+  ],
+  "cities": [
+   "ALIAGA",
+   "ALIAGA, NUEVA ECIJA",
+   "BONGABON",
+   "BONGABON, NUEVA ECIJA",
+   "CABANATUAN CITY",
+   "CABIAO",
+   "CABIAO, NUEVA ECIJA",
+   "CARRANGLAN",
+   "CARRANGLAN, NUEVA ECIJA",
+   "CUYAPO",
+   "CUYAPO, NUEVA ECIJA",
+   "GABALDON (BITULOK AND SABANI)",
+   "GABALDON (BITULOK AND SABANI), NUEVA ECIJA",
+   "GABALDON, NUEVA ECIJA",
+   "GAPAN",
+   "GAPAN CITY",
+   "GAPAN, NUEVA ECIJA",
+   "GEN TINIO (PAPAYA)",
+   "GEN TINIO (PAPAYA), NUEVA ECIJA",
+   "GEN TINIO, NUEVA ECIJA"
+  ],
+  "n": 33799
+ },
+ {
+  "f": "data/rdo-24-valenzuela-city-is-composed-of-the-following-barangay.csv",
+  "rdo": "RDO No. 24 - Valenzuela City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "VALENZUELA"
+  ],
+  "n": 4893
+ },
+ {
+  "f": "data/rdo-25a-plaridel-bulacan-and-rdo-25b-marilao-bulacan.csv",
+  "rdo": "RDO No. 25A - Plaridel, Bulacan and RDO No. 25B - Marilao, Bulacan",
+  "region": "raw",
+  "province": [
+   "BULACAN",
+   "Bulacan"
+  ],
+  "cities": [
+   "ANGAT",
+   "BALAGTAS",
+   "BALIUAG",
+   "BALIWAG",
+   "BOCAUE",
+   "BULACAN",
+   "BULAKAN",
+   "BUSTOS",
+   "Balagtas",
+   "CALUMPIT",
+   "DO\u00d1A REMEDIOS TRINIDAD",
+   "GUIGUINTO",
+   "HAGONOY",
+   "LAND",
+   "MALOLOS",
+   "MALOLOS CITY",
+   "MARILAO",
+   "MEYCAUAYAN",
+   "NORZAGARAY",
+   "OBANDO"
+  ],
+  "n": 19752
+ },
+ {
+  "f": "data/rdo-25a-plaridel-bulacan-and-rdo-25b-santa-maria-bulacan.csv",
+  "rdo": "RDO No. 25A - Plaridel, Bulacan and RDO No. 25B - Santa Maria, Bulacan",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "ANGAT",
+   "BALAGTAS",
+   "BALIUAG",
+   "BOCAUE",
+   "BULACAN",
+   "BUSTOS",
+   "CALUMPIT",
+   "DO\u00d1A REMEDIOS TRINIDAD",
+   "GUIGUINTO",
+   "HAGONOY",
+   "LAND",
+   "MALOLOS CITY",
+   "MARILAO",
+   "MEYCAUAYAN",
+   "NORZAGARAY",
+   "OBANDO",
+   "OF SAN JOSE DEL MONTE",
+   "PANDI",
+   "PAOMBONG",
+   "PLARIDEL"
+  ],
+  "n": 16352
+ },
+ {
+  "f": "data/rdo-26-malabon-navotas.csv",
+  "rdo": "RDO No. 26 - Malabon/Navotas",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "MALABON",
+   "NAVOTAS"
+  ],
+  "n": 6220
+ },
+ {
+  "f": "data/rdo-27-caloocan-city.csv",
+  "rdo": "RDO No. 27 - Caloocan City",
+  "region": "raw",
+  "province": [
+   "NCR - Metro Manila"
+  ],
+  "cities": [
+   "Caloocan City",
+   "HOMES"
+  ],
+  "n": 10701
+ },
+ {
+  "f": "data/rdo-29-tondo-san-nicolas-is-composed-of-the-following-barang.csv",
+  "rdo": "RDO No. 29 - Tondo-San Nicolas is composed of the following Barangays:",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "236/22",
+   "Manila"
+  ],
+  "n": 14543
+ },
+ {
+  "f": "data/rdo-3-san-fernando-city-la-union-is-composed-of-the-followin.csv",
+  "rdo": "RDO No. 3 - San Fernando City, La Union is composed of the following City",
+  "region": "raw",
+  "province": [
+   ": LA UNION",
+   "PROVINCE: LA UNION"
+  ],
+  "cities": [
+   "AGOO",
+   "AGOO, LA UNION",
+   "ARINGAY",
+   "ARINGAY, LA UNION",
+   "BACNOTAN",
+   "BACNOTAN, LA UNION",
+   "BAGULIN",
+   "BAGULIN, LA UNION",
+   "BALAOAN",
+   "BALAOAN, LA UNION",
+   "BANGAR",
+   "BANGAR, LA UNION",
+   "BAUANG",
+   "BAUANG, LA UNION",
+   "BURGOS",
+   "BURGOS, LA UNION",
+   "CABA",
+   "CABA, LA UNION",
+   "LUNA",
+   "LUNA, LA UNION"
+  ],
+  "n": 24570
+ },
+ {
+  "f": "data/rdo-30-binondo-manila-is-composed-of-the-following-barangays.csv",
+  "rdo": "RDO No. 30 - Binondo, Manila is composed of the following Barangays:",
+  "region": "raw",
+  "province": [],
+  "cities": [],
+  "n": 4513
+ },
+ {
+  "f": "data/rdo-31-sta-cruz-manila-is-composed-of-the-following-barangay.csv",
+  "rdo": "RDO No. 31 - Sta. Cruz, Manila is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "NATIONAL CAPITAL REGION (NCR)"
+  ],
+  "cities": [
+   "STA. CRUZ, MANILA"
+  ],
+  "n": 8234
+ },
+ {
+  "f": "data/rdo-32-quiapo-sampaloc-san-miguel-sta-mesa-is-composed-of-th.csv",
+  "rdo": "RDO No. 32 - Quiapo-Sampaloc-San Miguel-Sta. Mesa is composed of the follo",
+  "region": "raw",
+  "province": [
+   ": National Capital Region (NCR)"
+  ],
+  "cities": [
+   "MANILA/METRO MANILA",
+   "Quiapo - Sampaloc - San Miguel - Sta. Mesa"
+  ],
+  "n": 14061
+ },
+ {
+  "f": "data/rdo-34-paco-pandacan-sta-ana-san-andres-is-composed-of-the-f.csv",
+  "rdo": "RDO No. 34 - Paco-Pandacan-Sta. Ana-San Andres is composed of the followin",
+  "region": "raw",
+  "province": [
+   ": NATIONAL CAPITAL REGION (NCR)"
+  ],
+  "cities": [
+   "MANILA/METRO MANILA",
+   "Manila",
+   "PACO - PANDACAN - STA. ANA - SAN ANDRES"
+  ],
+  "n": 9699
+ },
+ {
+  "f": "data/rdo-35-odiongan-romblon-is-composed-of-the-following-municip.csv",
+  "rdo": "RDO No. 35 - Odiongan, Romblon is composed of the following Municipalities",
+  "region": "raw",
+  "province": [
+   "ROMBLON"
+  ],
+  "cities": [
+   "ALCANTARA",
+   "ALCANTARA, ROMBLON",
+   "BANTON",
+   "BANTON, ROMBLON",
+   "CAJIDIOCAN",
+   "CAJIDIOCAN, ROMBLON",
+   "CALATRAVA",
+   "CALATRAVA, ROMBLON",
+   "CONCEPCION",
+   "CONCEPCION, ROMBLON",
+   "CORCUERA",
+   "CORCUERA, ROMBLON",
+   "FERROL",
+   "FERROL, ROMBLON",
+   "LOOC",
+   "LOOC, ROMBLON",
+   "MAGDIWANG",
+   "MAGDIWANG, ROMBLON",
+   "ODIONGAN",
+   "ODIONGAN, ROMBLON"
+  ],
+  "n": 15327
+ },
+ {
+  "f": "data/rdo-36-puerto-princesa-city-palawan-is-composed-of-the-follo.csv",
+  "rdo": "RDO No. 36 - Puerto Princesa City, Palawan is composed of the following Ci",
+  "region": "raw",
+  "province": [
+   "PALAWAN"
+  ],
+  "cities": [
+   "ABORLAN",
+   "ABORLAN, PALAWAN",
+   "AGUTAYA",
+   "AGUTAYA, PALAWAN",
+   "ARACELI",
+   "ARACELI, PALAWAN",
+   "BATARAZA",
+   "BROOKE'S POINT",
+   "BROOKE'S POINT, PALAWAN",
+   "BUSUANGA",
+   "BUSUANGA, PALAWAN",
+   "CAGAYANCILLO",
+   "CORON",
+   "CORON, PALAWAN",
+   "CULION (PREVIOUSLY PART OF CORON, PALAWAN)",
+   "CUYO",
+   "CUYO, PALAWAN",
+   "DUMARAN",
+   "DUMARAN, PALAWAN",
+   "EL NIDO"
+  ],
+  "n": 8067
+ },
+ {
+  "f": "data/rdo-38-north-quezon-city-is-composed-of-the-following-barang.csv",
+  "rdo": "RDO No. 38 - North Quezon City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [],
+  "cities": [],
+  "n": 12166
+ },
+ {
+  "f": "data/rdo-39-south-quezon-city-is-composed-of-the-following-barang.csv",
+  "rdo": "RDO No. 39 - South Quezon City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   ":   METRO MANILA"
+  ],
+  "cities": [
+   "SOUTH, QUEZON CITY"
+  ],
+  "n": 14460
+ },
+ {
+  "f": "data/rdo-40-cubao-quezon-city-is-composed-of-the-following-barang.csv",
+  "rdo": "RDO No. 40 - Cubao, Quezon City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "NCR"
+  ],
+  "cities": [
+   "CUBAO",
+   "CUBAO, QUEZON CITY",
+   "Cubao, Quezon City"
+  ],
+  "n": 17075
+ },
+ {
+  "f": "data/rdo-41-mandaluyong-city-is-composed-of-the-following-baranga.csv",
+  "rdo": "RDO No. 41 - Mandaluyong City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "NCR"
+  ],
+  "cities": [
+   "G. ENRIQUEZ - VERGARA",
+   "LAND COND",
+   "LAND CONDO",
+   "LAND MADALUYONG",
+   "LAND MAND",
+   "MANDALUYONG",
+   "OF MANDALUYONG SCIENCE HIGH SCHOOL*",
+   "P. MARTINEZ ST",
+   "PIONEER",
+   "PIONEER - HIGHWAY HILLS",
+   "SQUARE PIONEER",
+   "WACK WACK ROAD",
+   "WACK-WACK ROAD"
+  ],
+  "n": 5810
+ },
+ {
+  "f": "data/rdo-42-san-juan-city-is-composed-of-the-following-barangays.csv",
+  "rdo": "RDO No. 42 - San Juan City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "N C R"
+  ],
+  "cities": [
+   "SAN JUAN CITY"
+  ],
+  "n": 894
+ },
+ {
+  "f": "data/rdo-43b-west-pasig-was-consolidated.csv",
+  "rdo": "RDO No. 43B - West Pasig was consolidated",
+  "region": "raw",
+  "province": [
+   "N C R",
+   "NCR"
+  ],
+  "cities": [
+   "ADB Ave corner Garnet Road",
+   "BAGONG ILOG",
+   "LAND",
+   "LAND AND TOWNHOUSE",
+   "LAND TOWNHOUSE",
+   "OF PASIG",
+   "ST MARTIN ROAD"
+  ],
+  "n": 7390
+ },
+ {
+  "f": "data/rdo-44-taguig-city-pateros-is-composed-of-the-following-city.csv",
+  "rdo": "RDO No. 44  -  Taguig City/Pateros is composed of the following City and Mun",
+  "region": "raw",
+  "province": [
+   ":   NCR",
+   "N C R",
+   "NCR"
+  ],
+  "cities": [
+   "OF PATEROS",
+   "OF TAGUIG",
+   "PATEROS",
+   "PATEROS CITY",
+   "TAGUIG",
+   "TAGUIG CITY"
+  ],
+  "n": 16720
+ },
+ {
+  "f": "data/rdo-45-marikina-city-is-composed-of-the-following-cities-and.csv",
+  "rdo": "RDO No. 45 - Marikina City is composed of the following Cities and Municip",
+  "region": "raw",
+  "province": [
+   ":",
+   "NATIONAL CAPITAL REGION",
+   "RIZAL"
+  ],
+  "cities": [
+   "ANTIPOLO",
+   "ANTIPOLO CITY",
+   "ANTIPOLO, RIZAL",
+   "MARIKINA CITY",
+   "RODRIGUEZ (MONTALBAN)",
+   "RODRIGUEZ (MONTALBAN), RIZAL",
+   "SAN MATEO",
+   "TERESA"
+  ],
+  "n": 11658
+ },
+ {
+  "f": "data/rdo-46-cainta-taytay-is-composed-of-the-following-municipali.csv",
+  "rdo": "RDO No. 46 - Cainta-Taytay is composed of the following Municipalities:",
+  "region": "raw",
+  "province": [
+   ":  RIZAL",
+   "RIZAL"
+  ],
+  "cities": [
+   "ANGONO",
+   "BARAS",
+   "BINANGONAN",
+   "BINANGONAN, RIZAL",
+   "CAINTA",
+   "CARDONA",
+   "JALA-JALA",
+   "MORONG",
+   "PILILLA",
+   "TANAY",
+   "TAYTAY"
+  ],
+  "n": 9878
+ },
+ {
+  "f": "data/rdo-48-west-makati-city-is-composed-of-the-following-baranga.csv",
+  "rdo": "RDO No. 48 - West Makati City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   ":       N C R"
+  ],
+  "cities": [
+   "LAND - MAKATI EXECUTIVE TOWER II",
+   "LAND 8 **",
+   "LAND PASONG TAMO CITY SQUARE **",
+   "MAKATI CITY",
+   "Makati City",
+   "PIO DEL PILAR",
+   "SSH BANCAL"
+  ],
+  "n": 2070
+ },
+ {
+  "f": "data/rdo-49-north-makati-city-is-composed-of-the-following-barang.csv",
+  "rdo": "RDO No. 49 - North Makati City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   ":          N C R",
+   "NCR"
+  ],
+  "cities": [
+   "HERRERA STREET",
+   "LAND CONDO",
+   "LAND CONDOMINIUM",
+   "LAND IV",
+   "LAND VI",
+   "MAKATI CITY",
+   "Makati Ave. cor. Kalayaan Ave",
+   "SALCEDO VILL",
+   "SALCEDO VILLAGE",
+   "SEN GIL PUYAT AVENUE",
+   "SOUTH SUPERHIGHWAY"
+  ],
+  "n": 4773
+ },
+ {
+  "f": "data/rdo-5-alaminos-city-west-pangasinan-is-composed-of-the-follo.csv",
+  "rdo": "RDO No. 5 - Alaminos City, West Pangasinan is composed of the following C",
+  "region": "raw",
+  "province": [
+   "PANGASINAN",
+   "WEST PANGASINAN"
+  ],
+  "cities": [
+   "AGNO",
+   "AGUILAR",
+   "ALAMINOS",
+   "ALAMINOS CITY",
+   "ANDA",
+   "BANI",
+   "BINMALEY",
+   "BOLINAO",
+   "BUGALLON",
+   "BURGOS",
+   "DASOL",
+   "INFANTA",
+   "LABRADOR",
+   "LINGAYEN",
+   "MABINI",
+   "MANGATAREM",
+   "OF LABRADOR",
+   "SUAL"
+  ],
+  "n": 19168
+ },
+ {
+  "f": "data/rdo-50-south-makati-city-is-composed-of-the-following-barang.csv",
+  "rdo": "RDO No. 50 - South Makati City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "NCR"
+  ],
+  "cities": [
+   "LAND VII",
+   "MAKATI CITY",
+   "MAKATICITY",
+   "SALCEDO VILLAGE",
+   "VALERO COR V.A. RUFINO",
+   "VALERO COR VA RUFINO"
+  ],
+  "n": 6149
+ },
+ {
+  "f": "data/rdo-53a-las-pi-as-city-is-composed-of-the-following-barangay.csv",
+  "rdo": "RDO No. 53A - Las Pi\u00f1as City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   ":  NCR"
+  ],
+  "cities": [
+   "LAS PINAS CITY",
+   "LAS PI\u00d1AS CITY",
+   "LOPE"
+  ],
+  "n": 2674
+ },
+ {
+  "f": "data/rdo-53b-muntinlupa-city-is-composed-of-the-following-baranga.csv",
+  "rdo": "RDO No. 53B - Muntinlupa City  is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "NCR"
+  ],
+  "cities": [
+   "MUNTINLUPA",
+   "MUNTINLUPA CITY",
+   "NATIONAL ROAD"
+  ],
+  "n": 4277
+ },
+ {
+  "f": "data/rdo-54a-trece-martirez-city-east-cavite-is-composed-of-the-f.csv",
+  "rdo": "RDO No. 54A - Trece Martirez City, East Cavite is composed of the following",
+  "region": "raw",
+  "province": [
+   "CAVITE",
+   "OF CAVITE",
+   "SOUTH CAVITE",
+   "\u2026................. : CAVITE"
+  ],
+  "cities": [
+   "(PIELA) SAMPLAOC III",
+   "ALFONSO",
+   "AMADEO",
+   "CARMONA",
+   "DASMARI\u00d1AS",
+   "GENERAL E. AGUINALDO",
+   "GENERAL MARIANO ALVAREZ",
+   "HOMES",
+   "IMUS",
+   "INDANG",
+   "LAND (TAGAYTAY COUNTRY HOMES)",
+   "LAND - TAGAYATY COUNTRY HOMES",
+   "LAND CONDOMINIUM",
+   "LAND DEVT CORP",
+   "LAND DEVT CORP ( GREENBREEZE IV VILLAGE)",
+   "LAND DEVT. CORP",
+   "LAND FARMLOT PH.II-II-A,B,C,D,E,F (CITYLAND FARM LOT)",
+   "LAND II - CONDOMINIUM",
+   "LAND INC",
+   "LAND IV"
+  ],
+  "n": 21650
+ },
+ {
+  "f": "data/rdo-54a-trece-martirez-city-east-cavite-and-rdo-54b-bacoor-c.csv",
+  "rdo": "RDO No. 54A-Trece Martirez City, East Cavite and RDO No. 54B - Bacoor Cit",
+  "region": "raw",
+  "province": [
+   ": CAVITE",
+   "CAVITE",
+   "OF CAVITE",
+   "PROVINCE           : CAVITE",
+   "SOUTH CAVITE"
+  ],
+  "cities": [
+   "(PIELA) SAMPLAOC III",
+   "BACOOR",
+   "BACOOR CITY",
+   "BACOOR, CAVITE",
+   "CAVITE CITY",
+   "GENERAL TRIAS",
+   "HOMES",
+   "KAWIT",
+   "LAND DEVT CORP",
+   "LAND DEVT. CORP",
+   "LAND INC",
+   "LAND PH3",
+   "LAND SUBD",
+   "MAGALLANES",
+   "MAGALLANES, CAVITE",
+   "MARAGONDON",
+   "NAIC",
+   "NOVELETA",
+   "OF ALFONSO",
+   "OF AMADEO"
+  ],
+  "n": 26368
+ },
+ {
+  "f": "data/rdo-55-san-pablo-city-east-laguna-is-composed-of-the-followi.csv",
+  "rdo": "RDO No. 55 - San Pablo City, East Laguna is composed of the following City",
+  "region": "raw",
+  "province": [
+   "LAGUNA"
+  ],
+  "cities": [
+   "ALAMINOS",
+   "CAVINTI",
+   "FAMY",
+   "KALAYAAN",
+   "KALAYAAN, LAGUNA",
+   "LILIW",
+   "LUISIANA",
+   "LUMBAN",
+   "MABITAC",
+   "MAGDALENA",
+   "MAJAYJAY",
+   "NAGCARLAN",
+   "NAGCARLAN LAGUNA",
+   "OF LUMBAN",
+   "OF SAN PABLO",
+   "PAETE",
+   "PAGSANJAN",
+   "PAGSANJAN LAGUNA",
+   "PAKIL",
+   "PANGIL"
+  ],
+  "n": 10767
+ },
+ {
+  "f": "data/rdo-56-calamba-city-central-laguna-is-composed-of-the-follow.csv",
+  "rdo": "RDO No. 56 - Calamba City, Central Laguna is composed of the following Cit",
+  "region": "raw",
+  "province": [
+   "LAGUNA"
+  ],
+  "cities": [
+   "BAY",
+   "BAY, LAGUNA",
+   "CALAMBA",
+   "CALAMBA, LAGUNA",
+   "CALAUAN",
+   "CALAUAN, LAGUNA",
+   "CALUAN, LAGUNA",
+   "LOS BA\u00d1OS",
+   "LOS BA\u00d1OS, LAGUNA",
+   "OF CALAMBA",
+   "PILA",
+   "PILA, LAGUNA",
+   "SANTA CRUZ",
+   "SANTA CRUZ, LAGUNA",
+   "VICTORIA",
+   "VICTORIA, LAGUNA"
+  ],
+  "n": 9702
+ },
+ {
+  "f": "data/rdo-57-bi-an-city-west-laguna-is-composed-of-the-following-c.csv",
+  "rdo": "RDO No. 57 - Bi\u00f1an City, West Laguna is composed of the following Cities:",
+  "region": "raw",
+  "province": [
+   "LAGUNA"
+  ],
+  "cities": [
+   "BINAN",
+   "BI\u00d1AN CITY",
+   "CABUYAO CITY",
+   "CABUYAO, LAGUNA",
+   "OF BINAN",
+   "OF BI\u00d1AN",
+   "OF CABUYAO",
+   "OF SAN PEDRO",
+   "OF SANTA ROSA",
+   "SAN PEDRO CITY",
+   "SAN PEDRO, LAGUNA",
+   "SANTA ROSA CITY, LAGUNA",
+   "STA. ROSA CITY"
+  ],
+  "n": 7289
+ },
+ {
+  "f": "data/rdo-57-bi-an-city-west-laguna-is-composed-of-the-following-c.csv",
+  "rdo": "RDO No. 57 - Bi\u00f1an City, West Laguna is composed of the following City and",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "BINAN",
+   "CABUYAO, LAGUNA",
+   "OF BINAN",
+   "OF BI\u00d1AN",
+   "OF CABUYAO",
+   "OF SAN PEDRO",
+   "OF SANTA ROSA",
+   "SAN PEDRO, LAGUNA",
+   "SANTA ROSA CITY, LAGUNA"
+  ],
+  "n": 4272
+ },
+ {
+  "f": "data/rdo-58-batangas-city-west-batangas-is-composed-of-the-follow.csv",
+  "rdo": "RDO No. 58 - Batangas City, West Batangas is composed of the following Cit",
+  "region": "raw",
+  "province": [
+   "BATANGAS"
+  ],
+  "cities": [
+   "BALAYAN",
+   "BATANGAS CITY",
+   "BAUAN",
+   "CALACA",
+   "CALATAGAN",
+   "LEMERY",
+   "LIAN",
+   "LOBO",
+   "MABINI",
+   "NASUGBU",
+   "OF BATANGAS",
+   "SAN LUIS",
+   "SAN PASCUAL",
+   "TAAL",
+   "TINGLOY",
+   "TUY"
+  ],
+  "n": 5788
+ },
+ {
+  "f": "data/rdo-6-urdaneta-city-east-pangasinan-is-composed-of-the-follo.csv",
+  "rdo": "RDO No. 6 - Urdaneta City, East Pangasinan is composed of the following C",
+  "region": "raw",
+  "province": [
+   ": PANGASINAN",
+   "PANGASINAN"
+  ],
+  "cities": [
+   "ASINGAN",
+   "ASINGAN, PANGASINAN",
+   "BALUNGAO",
+   "BALUNGAO, PANGASINAN",
+   "BINALONAN",
+   "BINALONAN PANGASINAN",
+   "BINALONAN, PANGASINAN",
+   "HOMES",
+   "NATIVIDAD",
+   "NATIVIDAD, PANGASINAN",
+   "POZORRUBIO",
+   "POZORRUBIO, PANGASINAN",
+   "POZZORUBIO, PANGASINAN",
+   "ROSALES",
+   "ROSALES, PANGASINAN",
+   "SAN MANUEL",
+   "SAN MANUEL, PANGASINAN",
+   "SAN NICOLAS",
+   "SAN NICOLAS, PANGASINAN",
+   "SAN QUINTIN"
+  ],
+  "n": 21046
+ },
+ {
+  "f": "data/rdo-60-lucena-city-north-quezon-is-composed-of-the-following.csv",
+  "rdo": "RDO No. 60 - Lucena City, North Quezon is composed of the following City a",
+  "region": "raw",
+  "province": [
+   "QUEZON"
+  ],
+  "cities": [
+   "BURDEOS",
+   "CANDELARIA",
+   "DOLORES",
+   "GEN NAKAR",
+   "INFANTA",
+   "JOMALIG",
+   "LUCBAN",
+   "LUCENA CITY",
+   "MAUBAN",
+   "OF BURDEOS",
+   "OF CANDELARIA",
+   "OF DOLORES",
+   "OF GENERAL NAKAR",
+   "OF INFANTA",
+   "OF JOMALIG",
+   "OF LUCBAN",
+   "OF LUCENA",
+   "OF MAUBAN",
+   "OF PAGBILAO",
+   "OF PANUKULAN"
+  ],
+  "n": 10524
+ },
+ {
+  "f": "data/rdo-61-gumaca-south-quezon-is-composed-of-the-following-muni.csv",
+  "rdo": "RDO No. 61 - Gumaca, South Quezon is composed of the following Municipalit",
+  "region": "raw",
+  "province": [
+   "QUEZON",
+   "SOUTHERN QUEZON"
+  ],
+  "cities": [
+   "AGDANGAN",
+   "AGDANGAN, QUEZON",
+   "ALABAT",
+   "ALABAT, QUEZON",
+   "ATIMONAN",
+   "ATIMONAN, QUEZON",
+   "BUENAVISTA",
+   "BUENAVISTA, QUEZON",
+   "CALAUAG",
+   "CALAUAG, QUEZON",
+   "CATANAUAN",
+   "CATANAUAN, QUEZON",
+   "GENERAL LUNA",
+   "GENERAL LUNA, QUEZON",
+   "GUINAYANGAN",
+   "GUINAYANGAN, QUEZON",
+   "GUMACA",
+   "GUMACA, QUEZON",
+   "LOPEZ",
+   "LOPEZ, QUEZON"
+  ],
+  "n": 19754
+ },
+ {
+  "f": "data/rdo-62-boac-marinduque-is-composed-of-the-following-municipa.csv",
+  "rdo": "RDO No. 62 - Boac, Marinduque is composed of the following Municipalities:",
+  "region": "raw",
+  "province": [
+   "MARINDUQUE"
+  ],
+  "cities": [
+   "BOAC",
+   "BOAC, MARINDUQUE",
+   "BUENAVISTA",
+   "BUENAVISTA, MARINDUQUE",
+   "GASAN",
+   "GASAN, MARINDUQUE",
+   "MOGPOG",
+   "MOGPOG, MARINDUQUE",
+   "SANTA CRUZ",
+   "SANTA CRUZ, MARINDUQUE",
+   "STA. CRUZ",
+   "TORRIJOS",
+   "TORRIJOS, MARINDUQUE"
+  ],
+  "n": 6194
+ },
+ {
+  "f": "data/rdo-63-calapan-city-oriental-mindoro-is-composed-of-the-foll.csv",
+  "rdo": "RDO No. 63 - Calapan City, Oriental Mindoro is composed of the following C",
+  "region": "raw",
+  "province": [
+   ": ORIENTAL MINDORO"
+  ],
+  "cities": [
+   "BACO",
+   "BANSUD",
+   "BONGABONG",
+   "BULALACAO",
+   "BULALACAO, ORIENTAL MINDORO",
+   "CALAPAN",
+   "GLORIA",
+   "GLORIA, ORIENTAL MINDORO",
+   "MANSALAY",
+   "NAUJAN",
+   "NAUJAN, ORIENTAL MINDORO",
+   "PINAMALAYAN",
+   "PINAMALAYAN, ORIENTAL MINDORO",
+   "POLA",
+   "PUERTO GALERA",
+   "ROXAS",
+   "SAN TEODORO",
+   "SOCORRO",
+   "TEODORO",
+   "VICTORIA"
+  ],
+  "n": 7895
+ },
+ {
+  "f": "data/rdo-64-talisay-camarines-norte-is-composed-of-the-following-.csv",
+  "rdo": "RDO No. 64 - Talisay, Camarines Norte is composed of the following City an",
+  "region": "raw",
+  "province": [
+   ":  CAMARINES NORTE",
+   "CAMARINES NORTE"
+  ],
+  "cities": [
+   "BASUD",
+   "CAPALONGA",
+   "DAET",
+   "JOSE PANGANIBAN",
+   "LABO",
+   "MERCEDES",
+   "PARACALE",
+   "SAN LORENZO RUIZ",
+   "SAN VICENTE",
+   "SANTA ELENA",
+   "STA. ELENA",
+   "TALISAY",
+   "VINZONS"
+  ],
+  "n": 23261
+ },
+ {
+  "f": "data/rdo-65-naga-city-camarines-sur-is-composed-of-the-following-.csv",
+  "rdo": "RDO No. 65 - Naga City, Camarines Sur is composed of the following City an",
+  "region": "raw",
+  "province": [
+   "CAMARINES SUR",
+   "OF CAMARINES SUR"
+  ],
+  "cities": [
+   "BOMBON",
+   "BOMBON, CAMARINES SUR",
+   "BONBON, CAMARINES SUR",
+   "CABUSAO",
+   "CALABANGA",
+   "CAMALIGAN",
+   "CANAMAN",
+   "DEL GALLEGO",
+   "GAINZA",
+   "GARCHITORENA",
+   "HEIGHTS SUBD",
+   "LIBMANAN",
+   "LUPI",
+   "LUPI CAMARINES SUR",
+   "MAGARAO",
+   "MILAOR",
+   "MINALABAC",
+   "NAGA CITY",
+   "PAMPLONA",
+   "PAMPLONA CAM. SUR"
+  ],
+  "n": 45081
+ },
+ {
+  "f": "data/rdo-66-iriga-city-camarines-sur-is-composed-of-the-following.csv",
+  "rdo": "RDO No. 66 - Iriga City, Camarines Sur is composed of the following City a",
+  "region": "raw",
+  "province": [
+   "CAMARINES SUR"
+  ],
+  "cities": [
+   "BAAO",
+   "BALATAN",
+   "BATO",
+   "BUHI",
+   "BULA",
+   "CARAMOAN",
+   "GOA",
+   "IRIGA",
+   "IRIGA CITY",
+   "LAGONOY",
+   "NABUA",
+   "OCAMPO",
+   "PRESENTACION",
+   "SAGNAY",
+   "SAG\u00d1AY",
+   "SAG\u00d1AY (FORMERLY SAGNAY)",
+   "SAN JOSE",
+   "TIGAON"
+  ],
+  "n": 19677
+ },
+ {
+  "f": "data/rdo-67-legazpi-city-albay-is-composed-of-the-following-citie.csv",
+  "rdo": "RDO No. 67 - Legazpi City, Albay is composed of the following Cities and M",
+  "region": "raw",
+  "province": [
+   "ALBAY"
+  ],
+  "cities": [
+   "BACACAY",
+   "CAMALIG",
+   "CAMALIG*",
+   "DARAGA",
+   "GUINOBATAN",
+   "HEIGHT SUBDIVISION",
+   "JOVELLAR",
+   "LEGAZPI",
+   "LIBON",
+   "LIGAO",
+   "MALILIPOT",
+   "MALINAO",
+   "MANITO",
+   "OAS",
+   "OF LEGASPI",
+   "PIODURAN",
+   "POLANGUI",
+   "RAPU-RAPU",
+   "SANTO DOMINGO",
+   "TABACO"
+  ],
+  "n": 38455
+ },
+ {
+  "f": "data/rdo-68-sorsogon-city-sorsogon-is-composed-of-the-following-c.csv",
+  "rdo": "RDO No. 68 - Sorsogon City, Sorsogon is composed of the following Cities a",
+  "region": "raw",
+  "province": [
+   "SORSOGON"
+  ],
+  "cities": [
+   "BACON, SORSOGON",
+   "BARCELONA",
+   "BULAN",
+   "BULUSAN",
+   "CASIGURAN",
+   "CASTILLA",
+   "DONSOL",
+   "GUBAT",
+   "IROSIN",
+   "JUBAN",
+   "MAGALLANES",
+   "MATNOG",
+   "PILAR",
+   "PRIETO DIAZ",
+   "PRIETO-DIAZ",
+   "SANTA MAGDALENA",
+   "SORSOGON",
+   "SORSOGON CITY",
+   "STA MAGDALENA (FORMERLY SANTA MAGDALENA)",
+   "STA. MAGDALENA"
+  ],
+  "n": 30009
+ },
+ {
+  "f": "data/rdo-69-virac-catanduanes-is-composed-of-the-following-munici.csv",
+  "rdo": "RDO No. 69 - Virac, Catanduanes is composed of the following  Municipaliti",
+  "region": "raw",
+  "province": [
+   "CATANDUANES"
+  ],
+  "cities": [
+   "BAGAMANOC",
+   "BARAS",
+   "BATO",
+   "CARAMORAN",
+   "GIGMOTO",
+   "PANDAN",
+   "PANGANIBAN",
+   "PANGANIBAN (PAYO)",
+   "SAN ANDRES",
+   "SAN ANDRES (CONTINUATION)",
+   "SAN MIGUEL",
+   "VIGA",
+   "VIRAC",
+   "VIRAC (CONTINUATION)"
+  ],
+  "n": 17022
+ },
+ {
+  "f": "data/rdo-7-bangued-abra-is-composed-of-the-following-municipaliti.csv",
+  "rdo": "RDO No. 7 - BANGUED, ABRA is composed of the following Municipalities:",
+  "region": "raw",
+  "province": [
+   "ABRA"
+  ],
+  "cities": [
+   "BANGUED",
+   "BANGUED (CAPITAL)",
+   "BOLINEY",
+   "BONLINEY",
+   "BUCAY",
+   "BUCLOC",
+   "DAGUIOMAN",
+   "DANGLAS",
+   "DOLORES",
+   "LA PAZ",
+   "LABA",
+   "LACUB",
+   "LAGANGILANG",
+   "LAGAYAN",
+   "LANGIDEN",
+   "LICUAN",
+   "LICUAN-BAAY",
+   "LICUAN-BAAY (LICUAN)",
+   "LUBA",
+   "MALIBCONG"
+  ],
+  "n": 20678
+ },
+ {
+  "f": "data/rdo-70-masbate-city-masbate-is-composed-of-the-following-cit.csv",
+  "rdo": "RDO No. 70 - Masbate City, Masbate is composed of the following City and M",
+  "region": "raw",
+  "province": [
+   "MASBATE"
+  ],
+  "cities": [
+   "AROROY",
+   "BALENO",
+   "BALUD",
+   "BATUAN",
+   "CATAINGAN",
+   "CAWAYAN",
+   "CLAVERIA",
+   "DIMASALANG",
+   "ESPERANZA",
+   "MANDAON",
+   "MASBATE CITY",
+   "MILAGROS",
+   "MOBO",
+   "MONREAL",
+   "PALANAS",
+   "PIO V. CORPUS",
+   "PIO V. CORPUS (LIMBUHAN)",
+   "PIO V. CORPUZ (LIMBUHAN)",
+   "PLACER",
+   "SAN FERNANDO"
+  ],
+  "n": 27364
+ },
+ {
+  "f": "data/rdo-71-kalibo-aklan-is-composed-of-the-following-municipalit.csv",
+  "rdo": "RDO No. 71 - Kalibo, Aklan is composed of the following Municipalities:",
+  "region": "raw",
+  "province": [
+   "AKLAN"
+  ],
+  "cities": [
+   "ALTAVAS",
+   "BALETE",
+   "BANGA",
+   "BATAN",
+   "BURUANGA",
+   "IBAJAY",
+   "KALIBO",
+   "KALIBO, AKLAN",
+   "LEZO",
+   "LIBACAO",
+   "LIBACAO, AKLAN",
+   "MADALAG",
+   "MAKATO",
+   "MALAY",
+   "MALAY, AKLAN",
+   "MALINAO",
+   "NABAS",
+   "NEW WASHINGTON",
+   "NUMANCIA",
+   "TANGALAN"
+  ],
+  "n": 7227
+ },
+ {
+  "f": "data/rdo-72-roxas-city-capiz-is-composed-of-the-following-city-an.csv",
+  "rdo": "RDO No. 72 - Roxas City, Capiz is composed of the following City and Munic",
+  "region": "raw",
+  "province": [
+   ":   CAPIZ"
+  ],
+  "cities": [
+   "CUARTERO",
+   "DAO",
+   "DUMALAG",
+   "DUMARAO",
+   "IVISAN",
+   "JAMINDAN",
+   "MAAYON",
+   "MAMBUSAO",
+   "OF CUARTERO",
+   "OF CUARTERO, CAPIZ",
+   "OF DAO",
+   "OF DUMALAG",
+   "OF DUMARAO",
+   "OF IVISAN",
+   "OF JAMINDAN",
+   "OF MA-AYON",
+   "OF MAAYON",
+   "OF MAMBUSAO",
+   "OF PANAY",
+   "OF PANITAN"
+  ],
+  "n": 5057
+ },
+ {
+  "f": "data/rdo-73-san-jose-antique-is-composed-of-the-following-municip.csv",
+  "rdo": "RDO No. 73 - San Jose, Antique is composed of the following Municipalities",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "ANINI-Y",
+   "ANINI-Y, ANTIQUE",
+   "BARBAZA",
+   "BARBAZA, ANTIQUE",
+   "BELISON",
+   "BELISON, ANIQUE",
+   "BELISON, ANTIQUE",
+   "BUGASONG",
+   "BUGASONG, ANTIQUE",
+   "CALUYA",
+   "CALUYA, ANTIQUE",
+   "CULASI",
+   "CULASI, ANTIQUE",
+   "HAMTIC",
+   "HAMTIC, ANTIQUE",
+   "LAUA-AN",
+   "LAUA-AN, ANTIQUE",
+   "LIBERTAD",
+   "LIBERTAD, ANTIQUE",
+   "PANDAN"
+  ],
+  "n": 2876
+ },
+ {
+  "f": "data/rdo-75-zarraga-iloilo-is-composed-of-the-following-city-and-.csv",
+  "rdo": "RDO No. 75 - Zarraga, Iloilo is composed of the following City and Municip",
+  "region": "raw",
+  "province": [
+   ":  ILOILO",
+   "ILOILO"
+  ],
+  "cities": [
+   "AJUY",
+   "ANILAO",
+   "BADIANGAN",
+   "BALASAN",
+   "BANATE",
+   "BAROTAC NUEVO",
+   "BAROTAC VIEJO",
+   "BATAD",
+   "BATAD ILOILO",
+   "BINGAWAN",
+   "CALINOG",
+   "CARLES",
+   "CONCEPCION",
+   "DINGLE",
+   "DUENAS",
+   "DUE\u00d1AS",
+   "DUMANGAS",
+   "ESTANCIA",
+   "JANIUAY",
+   "LAMBUNAO"
+  ],
+  "n": 22291
+ },
+ {
+  "f": "data/rdo-76-victorias-city-negros-occidental-is-composed-of-the-f.csv",
+  "rdo": "RDO No. 76 - Victorias City, Negros Occidental is composed of the followin",
+  "region": "raw",
+  "province": [
+   "NEGROS OCCIDENTAL",
+   "Negros Occidental"
+  ],
+  "cities": [
+   "Cadiz",
+   "Calatrava",
+   "EB MAGALONA",
+   "EB Magalona",
+   "ESCALANTE CITY",
+   "Escalante",
+   "Manapla",
+   "OF CADIZ CITY",
+   "OF CALATRAVA",
+   "OF E.B. MAGALONA",
+   "OF ESCALANTE",
+   "OF MANAPLA",
+   "OF SAGAY",
+   "OF SAN CARLOS CITY",
+   "OF TABOSO",
+   "OF VICTORIAS, NEGROS",
+   "Sagay",
+   "San Carlos City",
+   "Toboso",
+   "Victorias"
+  ],
+  "n": 4360
+ },
+ {
+  "f": "data/rdo-78-binalbagan-negros-occidental-is-composed-of-the-follo.csv",
+  "rdo": "RDO No. 78 - Binalbagan, Negros Occidental is composed of the following Ci",
+  "region": "raw",
+  "province": [
+   ":  NEGROS OCCIDENTAL",
+   "NEGROS OCCIDENTAL",
+   "Negros Occidental"
+  ],
+  "cities": [
+   "BAGO",
+   "BAGO CITY",
+   "BINALBAGAN",
+   "CANDONI",
+   "CANDONI, NEGROS OCCIDENTAL",
+   "CAUAYAN",
+   "CAUAYAN, NEGROS OCCIDENTAL",
+   "HIMAMAYLAN CITY",
+   "HIMAMAYLAN, NEGROS OCCIDENTAL",
+   "HINIGARAN",
+   "HINIGARAN, NEGROS OCCIDENTAL",
+   "HINOBA-AN",
+   "Himamaylan",
+   "Hinigaran",
+   "ILOG",
+   "ILOG, NEGROS OCCIDENTAL",
+   "ISABELA",
+   "Ilog",
+   "Isabela",
+   "KABANKALAN CITY"
+  ],
+  "n": 15848
+ },
+ {
+  "f": "data/rdo-79-dumaguete-city-negros-oriental-is-composed-of-the-fol.csv",
+  "rdo": "RDO No. 79 - Dumaguete City, Negros Oriental is composed of the following",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "AMLAN (AYUQUITAN), NEGROS ORIENTAL",
+   "AYUNGON, NEGROS ORIENTAL",
+   "BACONG, NEGROS ORIENTAL",
+   "BAIS CITY",
+   "BASAY, NEGROS ORIENTAL",
+   "BAYAWAN CITY (TULONG), NEGROS ORIENTAL",
+   "BINDOY (PAYABON), NEGROS ORIENTAL",
+   "CANLAON CITY",
+   "DAUIN, NEGROS ORIENTAL",
+   "DUMAGUETE CITY",
+   "ENRIQUE VILLANUEVA, SIQUIJOR",
+   "GUIHULNGAN CITY, NEGROS ORIENTAL",
+   "HIGH ROAD",
+   "JIMALALUD, NEGROS ORIENTAL",
+   "LA LIBERTAD, NEGROS ORIENTAL",
+   "LARENA, SIQUIJOR",
+   "LAZI, SIQUIJOR",
+   "MABINAY, NEGROS ORIENTAL",
+   "MANJUYOD, NEGROS ORIENTAL",
+   "MARIA, SIQUIJOR"
+  ],
+  "n": 23788
+ },
+ {
+  "f": "data/rdo-8-baguio-city-composed-of-the-following-barangays.csv",
+  "rdo": "RDO No. 8 - Baguio City  (composed of the following Barangays):",
+  "region": "raw",
+  "province": [
+   "BENGUET"
+  ],
+  "cities": [
+   "BAGUIO CITY",
+   "CAMP RD",
+   "CAMP ROAD",
+   "CAMP ROAD (LOTS NOT SERVICEABLE BY ROAD)",
+   "LEGARDA TO ALL LOTS"
+  ],
+  "n": 3762
+ },
+ {
+  "f": "data/rdo-8-baguio-city-is-composed-of-the-following-barangays.csv",
+  "rdo": "RDO No. 8 - Baguio City is composed of the following Barangays:",
+  "region": "raw",
+  "province": [
+   "BENGUET"
+  ],
+  "cities": [
+   "BAGUIO CITY",
+   "CAMP RD",
+   "CAMP ROAD",
+   "CAMP ROAD (LOTS NOT SERVICEABLE BY ROAD)",
+   "LEGARDA TO ALL LOTS"
+  ],
+  "n": 1958
+ },
+ {
+  "f": "data/rdo-80-mandaue-city-cebu-is-composed-of-the-following-cities.csv",
+  "rdo": "RDO No. 80 - Mandaue City, Cebu is composed of the following Cities and Mu",
+  "region": "raw",
+  "province": [
+   ": CEBU"
+  ],
+  "cities": [
+   "ASTURIAS, CEBU",
+   "BALAMBAN, CEBU",
+   "BANTAYAN, CEBU",
+   "BOGO, CEBU",
+   "BORBON, CEBU",
+   "CAMPOSTELA, CEBU",
+   "CARMEN, CEBU",
+   "CATMON, CEBU",
+   "COMPOSTELA, CEBU",
+   "CONSOLACION, CEBU",
+   "CORDOVA",
+   "CORDOVA, CEBU",
+   "DAAN BANTAYAN, CEBU",
+   "DANAO CITY",
+   "DANAO CITY, CEBU",
+   "LAPU-LAPU",
+   "LAPU-LAPU CITY",
+   "LAPU-LAPU, CEBU",
+   "LILOAN, CEBU",
+   "MADRIDEJOS, CEBU"
+  ],
+  "n": 14185
+ },
+ {
+  "f": "data/rdo-83-talisay-city-cebu-is-composed-of-the-following-cities.csv",
+  "rdo": "RDO No. 83 - Talisay City, Cebu is composed of the following Cities and Mu",
+  "region": "raw",
+  "province": [
+   "CEBU",
+   "OF CEBU"
+  ],
+  "cities": [
+   "ALCANTARA",
+   "ALCOY",
+   "ALEGRIA",
+   "ALOGUINSAN",
+   "ARGAO",
+   "BADIAN",
+   "BARILI",
+   "BOLIJOON",
+   "BOLJOON",
+   "BOLJOON, CEBU",
+   "CARCAR",
+   "CARCAR CITY",
+   "DALAGUETE",
+   "DUMANJUG",
+   "GINATILAN",
+   "MALABUYOC",
+   "MINGLANILLA",
+   "MOALBOAL",
+   "NAGA",
+   "NAGA CITY"
+  ],
+  "n": 9486
+ },
+ {
+  "f": "data/rdo-84-tagbilaran-city-bohol-is-composed-of-the-following-ci.csv",
+  "rdo": "RDO No. 84 - Tagbilaran City, Bohol is composed of the following City and",
+  "region": "raw",
+  "province": [
+   ": BOHOL",
+   "BOHOL",
+   "OF     BOHOL     UNDER     REVENUE   DISTRICT     OFFICE   NO.    84  -",
+   "OF   BOHOL   UNDER   REVENUE  DISTRICT   OFFICE   NO.   84  -"
+  ],
+  "cities": [
+   "ALBURQUERQUE",
+   "ALICIA",
+   "ANDA",
+   "ANTEQUERA",
+   "BACLAYON",
+   "BALILIHAN",
+   "BALILIHAN, BOHOL",
+   "BATUAN",
+   "BIEN UNIDO",
+   "BILAR",
+   "BUENAVISTA",
+   "CALAPE",
+   "CANDIJAY",
+   "CARMEN",
+   "CATIGBIAN",
+   "CLARIN",
+   "CORELLA",
+   "CORTES",
+   "DAGOHOY",
+   "DANAO"
+  ],
+  "n": 33157
+ },
+ {
+  "f": "data/rdo-85-catarman-northern-samar-is-composed-of-the-following-.csv",
+  "rdo": "RDO No. 85 - Catarman Northern Samar is composed of the following Municipa",
+  "region": "raw",
+  "province": [
+   ":  NORTHERN SAMAR"
+  ],
+  "cities": [
+   "ALLEN",
+   "BIRI",
+   "BOBON",
+   "CAPUL",
+   "CATARMAN",
+   "CATUBIG",
+   "GAMAY",
+   "LAO-ANG",
+   "LAOANG (LAO-ANG)",
+   "LAPINIG",
+   "LAS NAVAS",
+   "LAVEZARES",
+   "LOPE DE VEGA",
+   "MAPANAS",
+   "MONDRAGON",
+   "PALAPAG",
+   "PAMBUJAN",
+   "ROSARIO",
+   "SAN ANTONIO",
+   "SAN ISIDRO"
+  ],
+  "n": 13880
+ },
+ {
+  "f": "data/rdo-86-borongan-city-eastern-samar-is-composed-of-the-follow.csv",
+  "rdo": "RDO No. 86 - Borongan City, Eastern Samar  is composed of the following Ci",
+  "region": "raw",
+  "province": [
+   "EASTERN SAMAR"
+  ],
+  "cities": [
+   "ARTECHE",
+   "BALANGIGA",
+   "BALANGKAYAN",
+   "BORONGAN",
+   "BORONGAN CITY",
+   "CAN-AVID",
+   "DOLORES",
+   "GEN. MACARTHUR",
+   "GENERAL MACARTHUR",
+   "GIPORLOS",
+   "GUIUAN",
+   "HERNANI",
+   "JIPAPAD",
+   "LAWAAN",
+   "LLORENTE",
+   "MASLOG",
+   "MAYDOLONG",
+   "MERCEDES",
+   "ORAS",
+   "QUINAPONDAN"
+  ],
+  "n": 14788
+ },
+ {
+  "f": "data/rdo-88-tacloban-city-leyte-is-composed-of-the-following-city.csv",
+  "rdo": "RDO No. 88 - Tacloban City, Leyte is composed of the following City/Munici",
+  "region": "raw",
+  "province": [
+   ":  BILIRAN",
+   ":  LEYTE",
+   "LEYTE"
+  ],
+  "cities": [
+   "ABUYOG",
+   "ABUYOG, LEYTE",
+   "ALANG-ALANG, LEYTE",
+   "ALANGALANG",
+   "ALMERIA",
+   "BABATNGON",
+   "BABATNGON, LEYTE",
+   "BARUGO",
+   "BARUGO, LEYTE",
+   "BILIRAN",
+   "BURAUEN",
+   "BURAUEN, LEYTE",
+   "CABUCGAYAN (CABUGCAYAN)",
+   "CAIBIRAN",
+   "CAPOOCAN",
+   "CAPOOCAN, LEYTE",
+   "CARIGARA",
+   "CARIGARA, LEYTE",
+   "CULABA",
+   "DAGAMI"
+  ],
+  "n": 20465
+ },
+ {
+  "f": "data/rdo-89-ormoc-city-leyte-is-composed-of-the-following-city-mu.csv",
+  "rdo": "RDO No. 89 - Ormoc City, Leyte is composed of the following City/Municipal",
+  "region": "Quick Links - Zonal Values - Revenue Region 14 - Tacloban City",
+  "province": [
+   ":        LEYTE",
+   "LEYTE"
+  ],
+  "cities": [
+   "ALBUERA",
+   "ALBUERA, LEYTE",
+   "BATO",
+   "BATO, LEYTE",
+   "BAYBAY",
+   "BAYBAY, LEYTE",
+   "CALUBIAN",
+   "CALUBIAN, LEYTE",
+   "HILONGOS",
+   "HILONGOS, LEYTE",
+   "HINDANG",
+   "HINDANG, LEYTE",
+   "INOPACAN",
+   "INOPACAN, LEYTE",
+   "ISABEL",
+   "ISABEL, LEYTE",
+   "KANANGA",
+   "KANANGA, LEYTE",
+   "LEYTE",
+   "LEYTE, LEYTE"
+  ],
+  "n": 27174
+ },
+ {
+  "f": "data/rdo-9-la-trinidad-benguet-is-composed-of-the-following-munic.csv",
+  "rdo": "RDO No. 9 - La Trinidad, Benguet is composed of the following Municipalit",
+  "region": "raw",
+  "province": [],
+  "cities": [
+   "ATOK",
+   "BAKUN",
+   "BOKOD",
+   "BUGUIAS",
+   "ITOGON",
+   "KABAYAN",
+   "KAPANGAN",
+   "KIBUNGAN",
+   "LA TRINIDAD",
+   "LA TRINIDAD (CONTINUATION)",
+   "MANKAYAN",
+   "SABLAN",
+   "TUBA",
+   "TUBLAY"
+  ],
+  "n": 961
+ },
+ {
+  "f": "data/rdo-91-dipolog-city-zamboanga-del-norte-is-composed-of-the-f.csv",
+  "rdo": "RDO No. 91 - Dipolog City, Zamboanga Del Norte is composed of the followin",
+  "region": "raw",
+  "province": [
+   "ZAMBOANGA DEL NORTE"
+  ],
+  "cities": [
+   "BALIGUIAN",
+   "DAPITAN CITY",
+   "DIPOLOG CITY",
+   "GODOD",
+   "GUTALAC",
+   "JOSE DALMAN",
+   "KATIPUNAN",
+   "LA LIBERTAD",
+   "LABASON",
+   "LEON B. POSTIGO",
+   "LILOY",
+   "MANUKAN",
+   "MUTIA",
+   "PI\u00d1AN",
+   "POLANCO",
+   "PRES. M. A. ROXAS",
+   "RIZAL",
+   "SALUG",
+   "SERGIO OSME\u00d1A",
+   "SIAYAN"
+  ],
+  "n": 2355
+ },
+ {
+  "f": "data/rdo-93a-zamboanga-city-and-rdo-93b-zamboanga-sibugay.csv",
+  "rdo": "RDO No. 93A - Zamboanga City and RDO No. 93B - Zamboanga, Sibugay.",
+  "region": "raw",
+  "province": [
+   "ZAMBOANGA DEL SUR"
+  ],
+  "cities": [
+   "OF ZAMBOANGA",
+   "ZAMBOANGA CITY"
+  ],
+  "n": 3979
+ },
+ {
+  "f": "data/rdo-93a-zamboanga-city-zamboanga-del-sur-and-rdo-93b-ipil-za.csv",
+  "rdo": "RDO No. 93A - Zamboanga City, Zamboanga del Sur and RDO No. 93B - Ipil, Zam",
+  "region": "raw",
+  "province": [
+   "ZAMBOANGA DEL SUR",
+   "ZAMBOANGA SIBUGAY"
+  ],
+  "cities": [
+   "ALICIA",
+   "BUUG",
+   "DIPLAHAN",
+   "IMELDA",
+   "IPIL",
+   "IPIL, ZAMBOANGA DEL SUR",
+   "IPIL, ZAMBOANGA SIBUGAY",
+   "KABASALAN",
+   "MABUHAY",
+   "MALANGAS",
+   "NAGA",
+   "OLUTANGA",
+   "PAYAO",
+   "ROSELLER T. LIM",
+   "ROSELLER T. LIM, ZAMBOANGA DEL SUR",
+   "ROSELLER T. LIM, ZAMBOANGA SIBUGAY",
+   "SIAY",
+   "TALUSAN",
+   "TITAY",
+   "TITAY, ZAMBOANGA DEL SUR"
+  ],
+  "n": 16292
+ },
+ {
+  "f": "data/rdo-99-malaybalay-city-bukidnon-is-compsed-of-the-following-.csv",
+  "rdo": "RDO No. 99 - Malaybalay City, Bukidnon is compsed of the following Municip",
+  "region": "raw",
+  "province": [
+   ": BUKIDNON",
+   "BUKIDNON"
+  ],
+  "cities": [
+   "BAUNGON",
+   "CABANGLASAN",
+   "DAMULOG",
+   "DANGCAGAN",
+   "DON CARLOS",
+   "GOV'T OF MALAYBALAY",
+   "IMPASUG-ONG",
+   "KADINGILAN",
+   "KALILANGAN",
+   "KIBAWE",
+   "KITAOTAO",
+   "LANTAPAN",
+   "LIBONA",
+   "MALITBOG",
+   "MANOLO FORTICH",
+   "MARAMAG",
+   "OF BAUNGON",
+   "OF CABANGLASAN",
+   "OF DAMULOG",
+   "OF DANGCAGAN"
+  ],
+  "n": 35380
+ }
+]
